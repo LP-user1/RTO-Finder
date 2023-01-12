@@ -38,7 +38,7 @@ btn.addEventListener('click',()=>{
 });
 
 async function getJson(){
-  const response = await fetch('../assests/json/data.json');
+  const response = await fetch('./assests/json/data.json');
   return await response.json();
 }
 
