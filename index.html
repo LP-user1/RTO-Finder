@@ -15,15 +15,20 @@
       text-transform: capitalize;
     }
     li{
-      padding: .3rem 1rem;
+      background:#fff;
+      padding: .5rem 1rem;
       text-align: center !important;
       cursor: pointer;
       border-radius: 2rem;
       list-style: none;
+      font-size: .9rem !important;
       transition: all .500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
     }
+    a{
+      outline:none;
+    }
     li:hover{
-      background:#fff;
+      background:rgba(255, 255, 255, 0.681);
     }
     li.l1{
       padding:.15rem .3rem;
@@ -33,13 +38,13 @@
 </head>
 <body>
   <main>
-    <div class="container-fluid bg-warning bg-opacity-75">
+    <div class="container-fluid bg-warning bg-gradient bg-opacity-75">
       <div class="row user-select-none">
         <nav>
           <div class="col-sm-12 d-flex justify-content-end align-items-center">
-            <ul class="d-flex gap-3 p-2 me-2 align-items-center">
-              <li class="fs-6" onclick="alert('Hey this is for you!!');">ABOUT</li>
-              <li class="l1"><a href="https://github.com/LP-user1/" class="nav-link "><img width="32" height="32" src="https://github.com/LP-user1.png" class="img-fluid rounded-circle img-" alt="github_Profile">&nbsp;<span class="fs-6">GITHUB</span></a></li>
+            <ul class="d-flex gap-3 p-2 align-items-center">
+              <li  onclick="alert('Hey this is for you!!');">ABOUT</li>
+              <li class="l1"><a href="https://github.com/LP-user1/" class="nav-link "><img width="32" height="32" src="https://github.com/LP-user1.png" class="img-fluid rounded-circle img-" alt="github_Profile">&nbsp;<span>GITHUB</span></a></li>
             </ul>
           </div>
         </nav>
@@ -48,14 +53,14 @@
           <div class="w-75 input-group">
             <input type="search" placeholder="Search RTO" class="form-control shadow-none ps-3 text-uppercase" id="searchVal">
             <button class="btn btn-dark">
-              <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="m19.6 21l-6.3-6.3q-.75.6-1.725.95Q10.6 16 9.5 16q-2.725 0-4.612-1.887Q3 12.225 3 9.5q0-2.725 1.888-4.613Q6.775 3 9.5 3t4.613 1.887Q16 6.775 16 9.5q0 1.1-.35 2.075q-.35.975-.95 1.725l6.3 6.3ZM9.5 14q1.875 0 3.188-1.312Q14 11.375 14 9.5q0-1.875-1.312-3.188Q11.375 5 9.5 5Q7.625 5 6.312 6.312Q5 7.625 5 9.5q0 1.875 1.312 3.188Q7.625 14 9.5 14Z"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="m19.6 21l-6.3-6.3q-.75.6-1.725.95Q10.6 16 9.5 16q-2.725 0-4.612-1.887Q3 12.225 3 9.5q0-2.725 1.888-4.613Q6.775 3 9.5 3t4.613 1.887Q16 6.775 16 9.5q0 1.1-.35 2.075q-.35.975-.95 1.725l6.3 6.3ZM9.5 14q1.875 0 3.188-1.312Q14 11.375 14 9.5q0-1.875-1.312-3.188Q11.375 5 9.5 5Q7.625 5 6.312 6.312Q5 7.625 5 9.5q0 1.875 1.312 3.188Q7.625 14 9.5 14Z"/></svg>
             </button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="container my-3 p-5">
+    <div class="container p-4">
       <div class="row">
         <div class="col shadow rounded-3 alert alert-danger d-flex gap-2 justify-content-center align-items-center d-none">
           <p>
@@ -63,10 +68,10 @@
           </p>
           <p class="not-found fs-5 fw-light w-100 text-md-center">Result not found !Try another RTO code.</p>
         </div>
-        <div class="col-sm-12 bg-white shadow p-3 w-100 mx-auto d-none">
+        <div class="col-sm-12 bg-white shadow p-3 w-100 mx-auto d-none rounded-2">
           <p class="fs-6">Your search result for : <span id="query" class="fw-semibold fs-4 text-uppercase"></span></p>
           <div class="table-responsive">
-            <table class="table table-hover table-bordered table-group-divider table">
+            <table class="table table-hover table-bordered table-group-divider">
               <tr>
                 <td class="fw-semibold">ID</td>
                 <td class="fs-5" id="id"></td>
@@ -90,7 +95,6 @@
             </table>
           </div>
         </div>
-
       </div>
     </div>
   </main>
