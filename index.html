@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RTO Number Finder</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <style>
+    input,#query{
+      letter-spacing: .10rem;
+    }
+    input::placeholder{
+      letter-spacing: 0;
+      text-transform: capitalize;
+    }
+    li{
+      padding: .3rem 1rem;
+      text-align: center !important;
+      cursor: pointer;
+      border-radius: 2rem;
+      list-style: none;
+      transition: all .500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+    li:hover{
+      background:#fff;
+    }
+    li.l1{
+      padding:.15rem .3rem;
+      padding-right: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="container-fluid bg-warning bg-opacity-75">
+      <div class="row user-select-none">
+        <nav>
+          <div class="col-sm-12 d-flex justify-content-end align-items-center">
+            <ul class="d-flex gap-3 p-2 me-2 align-items-center">
+              <li class="fs-6" onclick="alert('Hey this is for you!!');">ABOUT</li>
+              <li class="l1"><a href="https://github.com/LP-user1/" class="nav-link "><img width="32" height="32" src="https://github.com/LP-user1.png" class="img-fluid rounded-circle img-" alt="github_Profile">&nbsp;<span class="fs-6">GITHUB</span></a></li>
+            </ul>
+          </div>
+        </nav>
+        <div class="col-sm-12 d-flex gap-3 justify-content-center flex-column align-items-center my-5">
+          <p class="display-6">RTO Finder with Code</p>
+          <div class="w-75 input-group">
+            <input type="search" placeholder="Search RTO" class="form-control shadow-none ps-3 text-uppercase" id="searchVal">
+            <button class="btn btn-dark">
+              <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path fill="currentColor" d="m19.6 21l-6.3-6.3q-.75.6-1.725.95Q10.6 16 9.5 16q-2.725 0-4.612-1.887Q3 12.225 3 9.5q0-2.725 1.888-4.613Q6.775 3 9.5 3t4.613 1.887Q16 6.775 16 9.5q0 1.1-.35 2.075q-.35.975-.95 1.725l6.3 6.3ZM9.5 14q1.875 0 3.188-1.312Q14 11.375 14 9.5q0-1.875-1.312-3.188Q11.375 5 9.5 5Q7.625 5 6.312 6.312Q5 7.625 5 9.5q0 1.875 1.312 3.188Q7.625 14 9.5 14Z"/></svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container my-3 p-5">
+      <div class="row">
+        <div class="col shadow rounded-3 alert alert-danger d-flex gap-2 justify-content-center align-items-center d-none">
+          <p>
+            <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24"><path fill="currentColor" d="M12 13q.425 0 .713-.288Q13 12.425 13 12V7.975q0-.425-.287-.7Q12.425 7 12 7t-.712.287Q11 7.575 11 8v4.025q0 .425.288.7q.287.275.712.275Zm0 4q.425 0 .713-.288Q13 16.425 13 16t-.287-.713Q12.425 15 12 15t-.712.287Q11 15.575 11 16t.288.712Q11.575 17 12 17Zm0 5q-2.075 0-3.9-.788q-1.825-.787-3.175-2.137q-1.35-1.35-2.137-3.175Q2 14.075 2 12t.788-3.9q.787-1.825 2.137-3.175q1.35-1.35 3.175-2.138Q9.925 2 12 2t3.9.787q1.825.788 3.175 2.138q1.35 1.35 2.137 3.175Q22 9.925 22 12t-.788 3.9q-.787 1.825-2.137 3.175q-1.35 1.35-3.175 2.137Q14.075 22 12 22Zm0-10Zm0 8q3.325 0 5.663-2.337Q20 15.325 20 12t-2.337-5.663Q15.325 4 12 4T6.338 6.337Q4 8.675 4 12t2.338 5.663Q8.675 20 12 20Z"/></svg>
+          </p>
+          <p class="not-found fs-5 fw-light w-100 text-md-center">Result not found !Try another RTO code.</p>
+        </div>
+        <div class="col-sm-12 bg-white shadow p-3 w-100 mx-auto d-none">
+          <p class="fs-6">Your search result for : <span id="query" class="fw-semibold fs-4 text-uppercase"></span></p>
+          <div class="table-responsive">
+            <table class="table table-hover table-bordered table-group-divider table">
+              <tr>
+                <td class="fw-semibold">ID</td>
+                <td class="fs-5" id="id"></td>
+              </tr>
+              <tr>
+                <td class="fw-semibold">CODE</td>
+                <td class="fs-5" id="code"></td>
+              </tr>
+              <tr>
+                <td class="fw-semibold">LOCATION</td>
+                <td class="fs-5" id="loc"></td>
+              </tr>
+              <tr>
+                <td class="fw-semibold">TYPE</td>
+                <td class="fs-5" id="type"></td>
+              </tr>
+              <tr>
+                <td class="fw-semibold">DISTRICT</td>
+                <td class="fs-5" id="dist"></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </main>
+  
+  <!-- <script src="./assests/js/download.js"></script> -->
+  <script src="./assests/js/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+</body>
+</html>
