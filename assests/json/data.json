@@ -1485,238 +1485,238 @@
   },
   {
     "id": 213,
-    "code": "OD 01",
+    "code": "OD01",
     "location": "Balasore",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 214,
-    "code": "OD 02",
+    "code": "OD02",
     "location": "Bhubaneswar",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 215,
-    "code": "OD 03",
+    "code": "OD03",
     "location": "Balangir",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 216,
-    "code": "OD 04",
+    "code": "OD04",
     "location": "Chandikhole",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 217,
-    "code": "OD 05",
+    "code": "OD05",
     "location": "Cuttack",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 218,
-    "code": "OD 06",
+    "code": "OD06",
     "location": "Dhenkanal",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 219,
-    "code": "OD 07",
+    "code": "OD07",
     "location": "Ganjam",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 220,
-    "code": "OD 08",
+    "code": "OD08",
     "location": "Kalahandi",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 221,
-    "code": "OD 09",
+    "code": "OD09",
     "location": "Keonjhar",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 222,
-    "code": "OD 10",
+    "code": "OD10",
     "location": "Koraput",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 223,
-    "code": "OD 11",
+    "code": "OD11",
     "location": "Mayurbhanj",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 224,
-    "code": "OD 12",
+    "code": "OD12",
     "location": "Phulbani",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 225,
-    "code": "OD 13",
+    "code": "OD13",
     "location": "Puri",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 226,
-    "code": "OD 14",
+    "code": "OD14",
     "location": "Rourkela",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 227,
-    "code": "OD 15",
+    "code": "OD15",
     "location": "Sambalpur",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 228,
-    "code": "OD 16",
+    "code": "OD16",
     "location": "Sundergarh",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 229,
-    "code": "OD 17",
+    "code": "OD17",
     "location": "Baragarh",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 230,
-    "code": "OD 18",
+    "code": "OD18",
     "location": "Rayagada",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 231,
-    "code": "OD 19",
+    "code": "OD19",
     "location": "Angul",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 232,
-    "code": "OD 20",
+    "code": "OD20",
     "location": "Gajapati",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 233,
-    "code": "OD 21",
+    "code": "OD21",
     "location": "Jagatsinghpur",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 234,
-    "code": "OD 22",
+    "code": "OD22",
     "location": "Bhadrak",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 235,
-    "code": "OD 23",
+    "code": "OD23",
     "location": "Jharsuguda",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 236,
-    "code": "OD 24",
+    "code": "OD24",
     "location": "Nabarangpur",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 237,
-    "code": "OD 25",
+    "code": "OD25",
     "location": "Nayagarh",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 238,
-    "code": "OD 26",
+    "code": "OD26",
     "location": "Nuapada",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 239,
-    "code": "OD 27",
+    "code": "OD27",
     "location": "Boudh",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 240,
-    "code": "OD 28",
+    "code": "OD28",
     "location": "Debagarh",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 241,
-    "code": "OD 29",
+    "code": "OD29",
     "location": "Kendrapara",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 242,
-    "code": "OD 30",
+    "code": "OD30",
     "location": "Malkangiri",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 243,
-    "code": "OD 31",
+    "code": "OD31",
     "location": "Sonepur",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 244,
-    "code": "OD 32",
+    "code": "OD32",
     "location": "Bhanjanagar",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 245,
-    "code": "OD 33",
+    "code": "OD33",
     "location": "Bhubaneswar-II",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 246,
-    "code": "OD 34",
+    "code": "OD34",
     "location": "Jajpur",
     "type": "RTO",
     "district": "-"
@@ -2087,196 +2087,196 @@
   },
   {
     "id": 299,
-    "code": "AS-01",
+    "code": "AS01",
     "location": "Guwahati, Kamrup",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 300,
-    "code": "AS-02",
+    "code": "AS02",
     "location": "Nagaon",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 301,
-    "code": "AS-03",
+    "code": "AS03",
     "location": "Jorhat",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 302,
-    "code": "AS-04",
+    "code": "AS04",
     "location": "Sibsagar",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 303,
-    "code": "AS-05",
+    "code": "AS05",
     "location": "Golaghat",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 304,
-    "code": "AS-06",
+    "code": "AS06",
     "location": "Dibrugarh",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 305,
-    "code": "AS-07",
+    "code": "AS07",
     "location": "Lakhimpur district",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 306,
-    "code": "AS-08",
+    "code": "AS08",
     "location": "Dima Hasao",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 307,
-    "code": "AS-09",
+    "code": "AS09",
     "location": "Karbi Anglong",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 308,
-    "code": "AS-10",
+    "code": "AS10",
     "location": "Karimganj",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 309,
-    "code": "AS-11",
+    "code": "AS11",
     "location": "Cachar",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 310,
-    "code": "AS-12",
+    "code": "AS12",
     "location": "Sonitpur",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 311,
-    "code": "AS-13",
+    "code": "AS13",
     "location": "Darrang",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 312,
-    "code": "AS-14",
+    "code": "AS14",
     "location": "Nalbari",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 313,
-    "code": "AS-15",
+    "code": "AS15",
     "location": "Barpeta",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 314,
-    "code": "AS-16",
+    "code": "AS16",
     "location": "Kokrajhar",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 315,
-    "code": "AS-17",
+    "code": "AS17",
     "location": "Dhubri",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 316,
-    "code": "AS-18",
+    "code": "AS18",
     "location": "Goalpara",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 317,
-    "code": "AS-19",
+    "code": "AS19",
     "location": "Bongaigaon",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 318,
-    "code": "AS-21",
+    "code": "AS21",
     "location": "Marigaon",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 319,
-    "code": "AS-22",
+    "code": "AS22",
     "location": "Dhemaji",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 320,
-    "code": "AS-23",
+    "code": "AS23",
     "location": "Tinsukia",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 321,
-    "code": "AS-24",
+    "code": "AS24",
     "location": "Hailakandi",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 322,
-    "code": "AS-25",
+    "code": "AS25",
     "location": "Guwahati no longer used",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 323,
-    "code": "AS-27",
+    "code": "AS27",
     "location": "Udalguri",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 324,
-    "code": "AS-20",
+    "code": "AS20",
     "location": "Assam State Transport Corporation (ASTC)",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 325,
-    "code": "AS-30",
+    "code": "AS30",
     "location": "Assam Police vehicles",
     "type": "RTO",
     "district": "-"
   },
   {
     "id": 326,
-    "code": "AS-31",
+    "code": "AS31",
     "location": "Assam Police",
     "type": "RTO",
     "district": "-"
@@ -2458,7 +2458,7 @@
   },
   {
     "id": 352,
-    "code": "BR 37",
+    "code": "BR37",
     "location": "Kishanganj",
     "type": "RTO",
     "district": "-"
@@ -2549,8 +2549,1968 @@
   },
   {
     "id": 365,
-    "code": "BR 57",
+    "code": "BR57",
     "location": "Rohtas",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 366,
+    "code": "GA01",
+    "location": "Panaji (North Goa district)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 367,
+    "code": "GA02",
+    "location": "Margao (South Goa district)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 368,
+    "code": "GA03",
+    "location": "Mapusa",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 369,
+    "code": "GA04",
+    "location": "Bicholim",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 370,
+    "code": "GA05",
+    "location": "Ponda",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 371,
+    "code": "GA06",
+    "location": "Vasco",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 372,
+    "code": "GA07",
+    "location": "Panaji",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 373,
+    "code": "GA08",
+    "location": "Margao",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 374,
+    "code": "GA09",
+    "location": "Quepem",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 375,
+    "code": "GA10",
+    "location": "Canacona",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 376,
+    "code": "GA11",
+    "location": "Pernem",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 377,
+    "code": "GA12",
+    "location": "Pernem",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 378,
+    "code": "JH01",
+    "location": "Ranchi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 379,
+    "code": "JH02",
+    "location": "Hazaribagh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 380,
+    "code": "JH03",
+    "location": "Daltonganj",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 381,
+    "code": "JH04",
+    "location": "Dumka",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 382,
+    "code": "JH05",
+    "location": "Jamshedpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 383,
+    "code": "JH06",
+    "location": "Chaibasa",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 384,
+    "code": "JH07",
+    "location": "Gumla",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 385,
+    "code": "JH08",
+    "location": "Lohardaga",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 386,
+    "code": "JH09",
+    "location": "Bokaro Steel City",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 387,
+    "code": "JH10",
+    "location": "Dhanbad",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 388,
+    "code": "JH11",
+    "location": "Giridih",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 389,
+    "code": "JH12",
+    "location": "Koderma",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 390,
+    "code": "JH13",
+    "location": "Chatra",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 391,
+    "code": "JH14",
+    "location": "Garhwa",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 392,
+    "code": "JH15",
+    "location": "Deoghar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 393,
+    "code": "JH16",
+    "location": "Pakur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 394,
+    "code": "JH17",
+    "location": "Godda",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 395,
+    "code": "JH18",
+    "location": "Sahibganj",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 396,
+    "code": "JH19",
+    "location": "Latehar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 397,
+    "code": "JH20",
+    "location": "Simdega",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 398,
+    "code": "JH21",
+    "location": "Jamtara",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 399,
+    "code": "JH22",
+    "location": "Saraikela-Kharsawan",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 400,
+    "code": "JH23",
+    "location": "Khunti",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 401,
+    "code": "JH24",
+    "location": "Ramgarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 402,
+    "code": "TS01",
+    "location": "Adilabad",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 403,
+    "code": "TS02",
+    "location": "Karimnagar",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 404,
+    "code": "TS03",
+    "location": "Warangal",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 405,
+    "code": "TS04",
+    "location": "Khammam",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 406,
+    "code": "TS05",
+    "location": "Nalgonda",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 407,
+    "code": "TS06",
+    "location": "Mahbubnagar",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 408,
+    "code": "TS07",
+    "location": "Attapur",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 409,
+    "code": "TS08",
+    "location": "Medchal",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 410,
+    "code": "TS09",
+    "location": "Khairtabad",
+    "type": "JTC",
+    "district": "-"
+  },
+  {
+    "id": 411,
+    "code": "TS10",
+    "location": "Secunderabad",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 412,
+    "code": "TS11",
+    "location": "Malakpet",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 413,
+    "code": "TS12",
+    "location": "Kishanbagh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 414,
+    "code": "TS13",
+    "location": "Tolichowki",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 415,
+    "code": "TS14",
+    "location": "Hyderabad",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 416,
+    "code": "TS15",
+    "location": "Sangareddy",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 417,
+    "code": "TS16",
+    "location": "Nizamabad",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 418,
+    "code": "TS17",
+    "location": "Kamareddy",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 419,
+    "code": "TS18",
+    "location": "Nirmal",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 420,
+    "code": "TS19",
+    "location": "Mancherial",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 421,
+    "code": "TS20",
+    "location": "Asifabad",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 422,
+    "code": "TS21",
+    "location": "Jagtial",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 423,
+    "code": "TS22",
+    "location": "Peddapalli",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 424,
+    "code": "TS23",
+    "location": "Sircilla",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 425,
+    "code": "TS24",
+    "location": "Warangal",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 426,
+    "code": "TS25",
+    "location": "Bhupalpalle",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 427,
+    "code": "TS26",
+    "location": "Mahabubabad",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 428,
+    "code": "TS27",
+    "location": "Jangaon",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 429,
+    "code": "TS28",
+    "location": "Kothagudem",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 430,
+    "code": "TS29",
+    "location": "Suryapet",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 431,
+    "code": "TS30",
+    "location": "Bhongir",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 432,
+    "code": "TS31",
+    "location": "Nagarkurnool",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 433,
+    "code": "TS32",
+    "location": "Wanaparthy",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 434,
+    "code": "TS33",
+    "location": "Gadwal",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 435,
+    "code": "TS34",
+    "location": "Vikarabad",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 436,
+    "code": "TS35",
+    "location": "Medak",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 437,
+    "code": "TS36",
+    "location": "Siddipet",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 438,
+    "code": "TS37",
+    "location": "Mulugu",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 439,
+    "code": "TS38",
+    "location": "Narayanpet",
+    "type": "DTC",
+    "district": "-"
+  },
+  {
+    "id": 440,
+    "code": "RJ01",
+    "location": "Ajmer",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 441,
+    "code": "RJ02",
+    "location": "Alwar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 442,
+    "code": "RJ03",
+    "location": "Banswara",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 443,
+    "code": "RJ04",
+    "location": "Barmer",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 444,
+    "code": "RJ05",
+    "location": "Bharatpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 445,
+    "code": "RJ06",
+    "location": "Bhilwara",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 446,
+    "code": "RJ07",
+    "location": "Bikaner",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 447,
+    "code": "RJ08",
+    "location": "Bundi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 448,
+    "code": "RJ09",
+    "location": "Chittaurgarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 449,
+    "code": "RJ10",
+    "location": "Churu",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 450,
+    "code": "RJ11",
+    "location": "Dholpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 451,
+    "code": "RJ12",
+    "location": "Dungarpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 452,
+    "code": "RJ13",
+    "location": "Sri Ganganagar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 453,
+    "code": "RJ14",
+    "location": "Jaipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 454,
+    "code": "RJ15",
+    "location": "Jaisalmer",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 455,
+    "code": "RJ16",
+    "location": "Jalore",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 456,
+    "code": "RJ17",
+    "location": "Jhalawar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 457,
+    "code": "RJ18",
+    "location": "Jhunjhunu",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 458,
+    "code": "RJ19",
+    "location": "Jodhpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 459,
+    "code": "RJ20",
+    "location": "Kota",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 460,
+    "code": "RJ21",
+    "location": "Nagaur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 461,
+    "code": "RJ22",
+    "location": "Pali",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 462,
+    "code": "RJ23",
+    "location": "Sikar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 463,
+    "code": "RJ24",
+    "location": "Sirohi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 464,
+    "code": "RJ25",
+    "location": "Sawai Madhopur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 465,
+    "code": "RJ26",
+    "location": "Tonk",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 466,
+    "code": "RJ27",
+    "location": "Udaipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 467,
+    "code": "RJ28",
+    "location": "Baran",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 468,
+    "code": "RJ29",
+    "location": "Dausa",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 469,
+    "code": "RJ30",
+    "location": "Rajsamand",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 470,
+    "code": "RJ31",
+    "location": "Hanumangarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 471,
+    "code": "RJ32",
+    "location": "Kotputli",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 472,
+    "code": "RJ33",
+    "location": "Ramganj Mandi, Kota",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 473,
+    "code": "RJ34",
+    "location": "Karauli",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 474,
+    "code": "RJ35",
+    "location": "Pratapgarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 475,
+    "code": "RJ36",
+    "location": "Beawar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 476,
+    "code": "RJ37",
+    "location": "Didwana",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 477,
+    "code": "RJ38",
+    "location": "Rawatbhata, Kota",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 478,
+    "code": "RJ39",
+    "location": "Balotra, Barmer",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 479,
+    "code": "RJ40",
+    "location": "Bhiwadi, Alwar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 480,
+    "code": "RJ41",
+    "location": "Chomu, Jaipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 481,
+    "code": "RJ42",
+    "location": "Kishangarh, Ajmer",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 482,
+    "code": "RJ43",
+    "location": "Phalodi, Jodhpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 483,
+    "code": "RJ44",
+    "location": "Sujangarh, Churu",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 484,
+    "code": "RJ45",
+    "location": "Jaipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 485,
+    "code": "RJ46",
+    "location": "Abu road, Sirohi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 486,
+    "code": "RJ47",
+    "location": "Dudu, Jaipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 487,
+    "code": "RJ48",
+    "location": "Kekri, Ajmer",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 488,
+    "code": "RJ49",
+    "location": "Nohar, Hanumangarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 489,
+    "code": "RJ51",
+    "location": "Nokha, Bikaner",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 490,
+    "code": "RJ52",
+    "location": "Shahpura, Bhilwara",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 491,
+    "code": "RJ53",
+    "location": "Shahpura, Jaipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 492,
+    "code": "PB01",
+    "location": "Chandigarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 493,
+    "code": "PB02",
+    "location": "Amritsar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 494,
+    "code": "PB03",
+    "location": "Bathinda",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 495,
+    "code": "PB04",
+    "location": "Faridkot",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 496,
+    "code": "PB05",
+    "location": "Faridkot",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 497,
+    "code": "PB06",
+    "location": "Gurdaspur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 498,
+    "code": "PB07",
+    "location": "Hoshiarpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 499,
+    "code": "PB08",
+    "location": "Jalandhar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 500,
+    "code": "PB09",
+    "location": "Kapurthala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 501,
+    "code": "PB10",
+    "location": "Ludhiana",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 502,
+    "code": "PB11",
+    "location": "Patiala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 503,
+    "code": "PB12",
+    "location": "Ropar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 504,
+    "code": "PB13",
+    "location": "Sangrur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 505,
+    "code": "PB14",
+    "location": "Ajnala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 506,
+    "code": "PB15",
+    "location": "Abohar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 507,
+    "code": "PB16",
+    "location": "Anandpur Sahib",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 508,
+    "code": "PB17",
+    "location": "Baba Bakala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 509,
+    "code": "PB18",
+    "location": "Batala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 510,
+    "code": "PB19",
+    "location": "Barnala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 511,
+    "code": "PB20",
+    "location": "Balachaur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 512,
+    "code": "PB21",
+    "location": "Dasuya",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 513,
+    "code": "PB22",
+    "location": "Fazilka",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 514,
+    "code": "PB23",
+    "location": "Fatehgarh Sahib",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 515,
+    "code": "PB24",
+    "location": "Garhshankar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 516,
+    "code": "PB25",
+    "location": "Jagraon",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 517,
+    "code": "PB26",
+    "location": "Khanna",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 518,
+    "code": "PB27",
+    "location": "Kharar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 519,
+    "code": "PB28",
+    "location": "Malerkotla",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 520,
+    "code": "PB29",
+    "location": "Moga",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 521,
+    "code": "PB30",
+    "location": "Muktsar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 522,
+    "code": "PB31",
+    "location": "Mansa",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 523,
+    "code": "PB32",
+    "location": "Nawanshahr",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 524,
+    "code": "PB33",
+    "location": "Nakodar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 525,
+    "code": "PB34",
+    "location": "Nabha",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 526,
+    "code": "PB35",
+    "location": "Pathankot",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 527,
+    "code": "PB36",
+    "location": "Phagwara",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 528,
+    "code": "PB37",
+    "location": "Phillaur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 529,
+    "code": "PB38",
+    "location": "Patti",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 530,
+    "code": "PB39",
+    "location": "Rajpura",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 531,
+    "code": "PB40",
+    "location": "Rampura Phul",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 532,
+    "code": "PB41",
+    "location": "Sultanpur Lodhi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 533,
+    "code": "PB42",
+    "location": "Samana",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 534,
+    "code": "PB43",
+    "location": "Samrala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 535,
+    "code": "PB44",
+    "location": "Sunam",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 536,
+    "code": "PB45",
+    "location": "Talwandi Sabo",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 537,
+    "code": "PB46",
+    "location": "Tarn Taran",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 538,
+    "code": "PB47",
+    "location": "Zira",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 539,
+    "code": "PB48",
+    "location": "Amloh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 540,
+    "code": "PB49",
+    "location": "Khamano",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 541,
+    "code": "PB50",
+    "location": "Budhlada",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 542,
+    "code": "PB51",
+    "location": "Jhunir / Sardulgarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 543,
+    "code": "PB52",
+    "location": "Bassi Pathana",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 544,
+    "code": "PB53",
+    "location": "Malout",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 545,
+    "code": "PB54",
+    "location": "Mukerian",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 546,
+    "code": "PB55",
+    "location": "Payal",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 547,
+    "code": "PB56",
+    "location": "Raikot",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 548,
+    "code": "PB57",
+    "location": "Bhulath",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 549,
+    "code": "PB58",
+    "location": "Dera Baba Nanak",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 550,
+    "code": "PB59",
+    "location": "Dhuri",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 551,
+    "code": "PB60",
+    "location": "Gidderbaha",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 552,
+    "code": "PB61",
+    "location": "Jalalabad",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 553,
+    "code": "PB62",
+    "location": "Jaitu",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 554,
+    "code": "PB63",
+    "location": "Khadoor Sahib",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 555,
+    "code": "PB64",
+    "location": "Moonak",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 556,
+    "code": "PB65",
+    "location": "Mohali",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 557,
+    "code": "PB66",
+    "location": "Nihal Singh Wala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 558,
+    "code": "PB67",
+    "location": "Shahkot",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 559,
+    "code": "PB68",
+    "location": "Dhar Kalan",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 560,
+    "code": "PB69",
+    "location": "Bagha Purana",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 561,
+    "code": "PB70",
+    "location": "Dera Bassi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 562,
+    "code": "PB71",
+    "location": "Chamkaur Sahib",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 563,
+    "code": "PB72",
+    "location": "Patran",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 564,
+    "code": "PB73",
+    "location": "Tappa Mandi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 565,
+    "code": "PB74",
+    "location": "Nangal",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 566,
+    "code": "PB75",
+    "location": "Lehra",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 567,
+    "code": "PB76",
+    "location": "Ahmedgarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 568,
+    "code": "AP01",
+    "location": "Adilabad – Mancherial / Nirmala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 569,
+    "code": "AP02",
+    "location": "Anantapur – Hindupur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 570,
+    "code": "AP03",
+    "location": "Chittoor – Tirupati / Madanapalle",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 571,
+    "code": "AP04",
+    "location": "Kadapa – Proddatur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 572,
+    "code": "AP05",
+    "location": "Kakinada / Amalapuram / Rajahmundry",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 573,
+    "code": "AP07",
+    "location": "Guntur – Piduguralla / Narasaraopet / Repalle",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 574,
+    "code": "AP09",
+    "location": "Hyderabad Central (Khairtabad)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 575,
+    "code": "AP10",
+    "location": "Hyderabad North (Secunderabad)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 576,
+    "code": "AP11",
+    "location": "Hyderabad East (Malakpet)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 577,
+    "code": "AP12",
+    "location": "Hyderabad South (Kisanbagh)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 578,
+    "code": "AP13",
+    "location": "Hyderabad West (Mehdipatnam)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 579,
+    "code": "AP15",
+    "location": "Karimnagar – Jagatai / Peddapalli",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 580,
+    "code": "AP16",
+    "location": "Vijayawada / Gudivada / Machilipatnam / Nandigama / Nuzvid",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 581,
+    "code": "AP20",
+    "location": "Khammam – Kothagudem / Sathupally / Yellandu",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 582,
+    "code": "AP21",
+    "location": "Kurnool – Adoni / Nondual",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 583,
+    "code": "AP22",
+    "location": "Mahbubnagar – Pebbair / Gadwal",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 584,
+    "code": "AP23",
+    "location": "Medak – Sangareddy / Siddipet / Patancheru",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 585,
+    "code": "AP24",
+    "location": "Nalgonda – Suryapet / Miryalaguda / Bhongir / Bibinagar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 586,
+    "code": "AP25",
+    "location": "Nizamabad – Kamareddy",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 587,
+    "code": "AP26",
+    "location": "Nellore – Kavala / Gudur / Sullurpeta / Naidupet",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 588,
+    "code": "AP27",
+    "location": "Angola – Chirala / Mirzapur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 589,
+    "code": "AP28",
+    "location": "Athpur / Kukatpally / Medical",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 590,
+    "code": "AP29",
+    "location": "Uppal Kalan / Ibrahimpatnam",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 591,
+    "code": "AP30",
+    "location": "Srikakulam -Tekkali / Palasa / Sopita / Ichchapuram / Kavita",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 592,
+    "code": "AP31",
+    "location": "Visakhapatnam – Gajuwaka / Anakapalli",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 593,
+    "code": "AP35",
+    "location": "Vizianagaram",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 594,
+    "code": "AP36",
+    "location": "Warangal – Jalgaon / Mahabubabad",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 595,
+    "code": "AP37",
+    "location": "Uluru / Jangareddygudem / Korver / Tadepalligudem / Tanuki /Bhimavaram / Palakollu / Chintalapudi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 596,
+    "code": "CG01",
+    "location": "Govt of Chhattisgarh",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 597,
+    "code": "CG02",
+    "location": "Government of Chhattisgarh",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 598,
+    "code": "CG03",
+    "location": "Chhattisgarh Police",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 599,
+    "code": "CG04",
+    "location": "Raipur",
+    "type": "RTO",
+    "district": "Raipur district"
+  },
+  {
+    "id": 600,
+    "code": "CG05",
+    "location": "Dhamtari",
+    "type": "DTO",
+    "district": "Dhamtari district"
+  },
+  {
+    "id": 601,
+    "code": "CG06",
+    "location": "Mahasamund",
+    "type": "DTO",
+    "district": "Mahasamund district"
+  },
+  {
+    "id": 602,
+    "code": "CG07",
+    "location": "Durg",
+    "type": "ARTO",
+    "district": "Durg district"
+  },
+  {
+    "id": 603,
+    "code": "CG08",
+    "location": "Rajnandgaon",
+    "type": "ARTO",
+    "district": "Rajnandgaon district"
+  },
+  {
+    "id": 604,
+    "code": "CG09",
+    "location": "Kabirdham",
+    "type": "DTO",
+    "district": "Kabirdham district"
+  },
+  {
+    "id": 605,
+    "code": "CG10",
+    "location": "Bilaspur",
+    "type": "RTO",
+    "district": "Bilaspur district"
+  },
+  {
+    "id": 606,
+    "code": "CG11",
+    "location": "Janjgir–Champa",
+    "type": "DTO",
+    "district": "Janjgir–Champa district"
+  },
+  {
+    "id": 607,
+    "code": "CG12",
+    "location": "Korba",
+    "type": "ARTO",
+    "district": "Korba district"
+  },
+  {
+    "id": 608,
+    "code": "CG13",
+    "location": "Raigarh",
+    "type": "ARTO",
+    "district": "Raigarh district"
+  },
+  {
+    "id": 609,
+    "code": "CG14",
+    "location": "Jashpur",
+    "type": "DTO",
+    "district": "Jashpur district"
+  },
+  {
+    "id": 610,
+    "code": "CG15",
+    "location": "Surguja",
+    "type": "ARTO",
+    "district": "Surguja district"
+  },
+  {
+    "id": 611,
+    "code": "CG16",
+    "location": "Koriya",
+    "type": "DTO",
+    "district": "Koriya district"
+  },
+  {
+    "id": 612,
+    "code": "CG17",
+    "location": "Bastar",
+    "type": "RTO",
+    "district": "Bastar district"
+  },
+  {
+    "id": 613,
+    "code": "CG18",
+    "location": "Dantewada",
+    "type": "DTO",
+    "district": "Dantewada district"
+  },
+  {
+    "id": 614,
+    "code": "CG19",
+    "location": "Kanker",
+    "type": "DTO",
+    "district": "Kanker district"
+  },
+  {
+    "id": 615,
+    "code": "CG20",
+    "location": "Bijapur",
+    "type": "DTO",
+    "district": "Bijapur district,"
+  },
+  {
+    "id": 616,
+    "code": "CG21",
+    "location": "Narayanpur",
+    "type": "DTO",
+    "district": "Narayanpur district"
+  },
+  {
+    "id": 617,
+    "code": "CG22",
+    "location": "Baloda Bazar",
+    "type": "DTO",
+    "district": "Baloda Bazar district"
+  },
+  {
+    "id": 618,
+    "code": "CG23",
+    "location": "Gariaband",
+    "type": "DTO",
+    "district": "Gariaband district"
+  },
+  {
+    "id": 619,
+    "code": "CG24",
+    "location": "Balod",
+    "type": "DTO",
+    "district": "Balod district"
+  },
+  {
+    "id": 620,
+    "code": "CG25",
+    "location": "Bemetara",
+    "type": "DTO",
+    "district": "Bemetara district"
+  },
+  {
+    "id": 621,
+    "code": "CG26",
+    "location": "Sukma",
+    "type": "DTO",
+    "district": "Sukma district"
+  },
+  {
+    "id": 622,
+    "code": "CG27",
+    "location": "Kondagaon",
+    "type": "DTO",
+    "district": "Kondagaon district"
+  },
+  {
+    "id": 623,
+    "code": "CG28",
+    "location": "Mungeli",
+    "type": "DTO",
+    "district": "Mungeli district"
+  },
+  {
+    "id": 624,
+    "code": "CG29",
+    "location": "Surajpur",
+    "type": "DTO",
+    "district": "Surajpur district"
+  },
+  {
+    "id": 625,
+    "code": "CG30",
+    "location": "Balrampur",
+    "type": "DTO",
+    "district": "Balrampur district"
+  },
+  {
+    "id": 626,
+    "code": "JK01",
+    "location": "Srinagar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 627,
+    "code": "JK02",
+    "location": "Jammu",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 628,
+    "code": "JK03",
+    "location": "Anantnag",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 629,
+    "code": "JK04",
+    "location": "Budgam",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 630,
+    "code": "JK05",
+    "location": "Baramulla",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 631,
+    "code": "JK06",
+    "location": "Doda",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 632,
+    "code": "JK08",
+    "location": "Kathua",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 633,
+    "code": "JK09",
+    "location": "Kupwara",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 634,
+    "code": "JK11",
+    "location": "Rajouri",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 635,
+    "code": "JK12",
+    "location": "Poonch",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 636,
+    "code": "JK13",
+    "location": "Pulwama",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 637,
+    "code": "JK14",
+    "location": "Udhampur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 638,
+    "code": "JK15",
+    "location": "Bandipora",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 639,
+    "code": "JK16",
+    "location": "Ganderbal",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 640,
+    "code": "JK17",
+    "location": "Kishtwar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 641,
+    "code": "JK18",
+    "location": "Kulgam",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 642,
+    "code": "JK19",
+    "location": "Ramban",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 643,
+    "code": "JK20",
+    "location": "Reasi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 644,
+    "code": "JK21",
+    "location": "Samba",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 645,
+    "code": "JK22",
+    "location": "Shopian",
     "type": "RTO",
     "district": "-"
   }

@@ -1612,16 +1612,1141 @@ const BRList = `
 </tbody>
 </table>`;
 
+const GAList = `<table>
+<tbody>
+<tr>
+<td>Panaji (North Goa district)</td>
+<td>GA01</td>
+<td>Panaji</td>
+<td>GA07</td>
+</tr>
+<tr>
+<td>Margao (South Goa district)</td>
+<td>GA02</td>
+<td>Margao</td>
+<td>GA08</td>
+</tr>
+<tr>
+<td>Mapusa</td>
+<td>GA03</td>
+<td>Quepem</td>
+<td>GA09</td>
+</tr>
+<tr>
+<td>Bicholim</td>
+<td>GA04</td>
+<td>Canacona</td>
+<td>GA10</td>
+</tr>
+<tr>
+<td>Ponda</td>
+<td>GA05</td>
+<td>Pernem</td>
+<td>GA11</td>
+</tr>
+<tr>
+<td>Vasco</td>
+<td>GA06</td>
+<td>Pernem</td>
+<td>GA12</td>
+</tr>
+</tbody>
+</table>`;
+
+const JHList = `
+<table>
+<tbody>
+<tr>
+<td>Ranchi</td>
+<td>JH01</td>
+</tr>
+<tr>
+<td>Hazaribagh</td>
+<td>JH02</td>
+</tr>
+<tr>
+<td>Daltonganj</td>
+<td>JH03</td>
+</tr>
+<tr>
+<td>Dumka</td>
+<td>JH04</td>
+</tr>
+<tr>
+<td>Jamshedpur</td>
+<td>JH05</td>
+</tr>
+<tr>
+<td>Chaibasa</td>
+<td>JH06</td>
+</tr>
+<tr>
+<td>Gumla</td>
+<td>JH07</td>
+</tr>
+<tr>
+<td>Lohardaga</td>
+<td>JH08</td>
+</tr>
+<tr>
+<td>Bokaro Steel City</td>
+<td>JH09</td>
+</tr>
+<tr>
+<td>Dhanbad</td>
+<td>JH10</td>
+</tr>
+<tr>
+<td>Giridih</td>
+<td>JH11</td>
+</tr>
+<tr>
+<td>Koderma</td>
+<td>JH12</td>
+</tr>
+<tr>
+<td>Chatra</td>
+<td>JH13</td>
+</tr>
+<tr>
+<td>Garhwa</td>
+<td>JH14</td>
+</tr>
+<tr>
+<td>Deoghar</td>
+<td>JH15</td>
+</tr>
+<tr>
+<td>Pakur</td>
+<td>JH16</td>
+</tr>
+<tr>
+<td>Godda</td>
+<td>JH17</td>
+</tr>
+<tr>
+<td>Sahibganj</td>
+<td>JH18</td>
+</tr>
+<tr>
+<td>Latehar</td>
+<td>JH19</td>
+</tr>
+<tr>
+<td>Simdega</td>
+<td>JH20</td>
+</tr>
+<tr>
+<td>Jamtara</td>
+<td>JH21</td>
+</tr>
+<tr>
+<td>Saraikela-Kharsawan</td>
+<td>JH22</td>
+</tr>
+<tr>
+<td>Khunti</td>
+<td>JH23</td>
+</tr>
+<tr>
+<td>Ramgarh</td>
+<td>JH24</td>
+</tr>
+</tbody>
+</table>`;
+
+const TSList = `
+<table>
+<tbody>
+<tr>
+<td>TS01</td>
+<td>DTC</td>
+<td>Adilabad</td>
+</tr>
+<tr>
+<td>TS02</td>
+<td>DTC</td>
+<td>Karimnagar</td>
+</tr>
+<tr>
+<td>TS03</td>
+<td>DTC</td>
+<td>Warangal</td>
+</tr>
+<tr>
+<td>TS04</td>
+<td>DTC</td>
+<td>Khammam</td>
+</tr>
+<tr>
+<td>TS05</td>
+<td>DTC</td>
+<td>Nalgonda</td>
+</tr>
+<tr>
+<td>TS06</td>
+<td>DTC</td>
+<td>Mahbubnagar</td>
+</tr>
+<tr>
+<td>TS07</td>
+<td>DTC</td>
+<td>Attapur</td>
+</tr>
+<tr>
+<td>TS08</td>
+<td>DTC</td>
+<td>Medchal</td>
+</tr>
+<tr>
+<td>TS09</td>
+<td>JTC</td>
+<td>Khairtabad</td>
+</tr>
+<tr>
+<td>TS10</td>
+<td>RTO</td>
+<td>Secunderabad</td>
+</tr>
+<tr>
+<td>TS11</td>
+<td>RTO</td>
+<td>Malakpet</td>
+</tr>
+<tr>
+<td>TS12</td>
+<td>RTO</td>
+<td>Kishanbagh</td>
+</tr>
+<tr>
+<td>TS13</td>
+<td>RTO</td>
+<td>Tolichowki</td>
+</tr>
+<tr>
+<td>TS14</td>
+<td>RTO</td>
+<td>Hyderabad</td>
+</tr>
+<tr>
+<td>TS15</td>
+<td>DTC</td>
+<td>Sangareddy</td>
+</tr>
+<tr>
+<td>TS16</td>
+<td>DTC</td>
+<td>Nizamabad</td>
+</tr>
+<tr>
+<td>TS17</td>
+<td>DTC</td>
+<td>Kamareddy</td>
+</tr>
+<tr>
+<td>TS18</td>
+<td>DTC</td>
+<td>Nirmal</td>
+</tr>
+<tr>
+<td>TS19</td>
+<td>DTC</td>
+<td>Mancherial</td>
+</tr>
+<tr>
+<td>TS20</td>
+<td>DTC</td>
+<td>Asifabad</td>
+</tr>
+<tr>
+<td>TS21</td>
+<td>DTC</td>
+<td>Jagtial</td>
+</tr>
+<tr>
+<td>TS22</td>
+<td>DTC</td>
+<td>Peddapalli</td>
+</tr>
+<tr>
+<td>TS23</td>
+<td>DTC</td>
+<td>Sircilla</td>
+</tr>
+<tr>
+<td>TS24</td>
+<td>DTC</td>
+<td>Warangal</td>
+</tr>
+<tr>
+<td>TS25</td>
+<td>DTC</td>
+<td>Bhupalpalle</td>
+</tr>
+<tr>
+<td>TS26</td>
+<td>DTC</td>
+<td>Mahabubabad</td>
+</tr>
+<tr>
+<td>TS27</td>
+<td>DTC</td>
+<td>Jangaon</td>
+</tr>
+<tr>
+<td>TS28</td>
+<td>DTC</td>
+<td>Kothagudem</td>
+</tr>
+<tr>
+<td>TS29</td>
+<td>DTC</td>
+<td>Suryapet</td>
+</tr>
+<tr>
+<td>TS30</td>
+<td>DTC</td>
+<td>Bhongir</td>
+</tr>
+<tr>
+<td>TS31</td>
+<td>DTC</td>
+<td>Nagarkurnool</td>
+</tr>
+<tr>
+<td>TS32</td>
+<td>DTC</td>
+<td>Wanaparthy</td>
+</tr>
+<tr>
+<td>TS33</td>
+<td>DTC</td>
+<td>Gadwal</td>
+</tr>
+<tr>
+<td>TS34</td>
+<td>DTC</td>
+<td>Vikarabad</td>
+</tr>
+<tr>
+<td>TS35</td>
+<td>DTC</td>
+<td>Medak</td>
+</tr>
+<tr>
+<td>TS36</td>
+<td>DTC</td>
+<td>Siddipet</td>
+</tr>
+<tr>
+<td>TS37</td>
+<td>DTC</td>
+<td>Mulugu</td>
+</tr>
+<tr>
+<td>TS38</td>
+<td>DTC</td>
+<td>Narayanpet</td>
+</tr>
+</tbody>
+</table>`;
+
+const RJList = `
+<table>
+<tbody>
+<tr>
+<td>Ajmer</td>
+<td>RJ01</td>
+<td>Udaipur</td>
+<td>RJ27</td>
+</tr>
+<tr>
+<td>Alwar</td>
+<td>RJ02</td>
+<td>Baran</td>
+<td>RJ28</td>
+</tr>
+<tr>
+<td>Banswara</td>
+<td>RJ03</td>
+<td>Dausa</td>
+<td>RJ29</td>
+</tr>
+<tr>
+<td>Barmer</td>
+<td>RJ04</td>
+<td>Rajsamand</td>
+<td>RJ30</td>
+</tr>
+<tr>
+<td>Bharatpur</td>
+<td>RJ05</td>
+<td>Hanumangarh</td>
+<td>RJ31</td>
+</tr>
+<tr>
+<td>Bhilwara</td>
+<td>RJ06</td>
+<td>Kotputli</td>
+<td>RJ32</td>
+</tr>
+<tr>
+<td>Bikaner</td>
+<td>RJ07</td>
+<td>Ramganj Mandi, Kota</td>
+<td>RJ33</td>
+</tr>
+<tr>
+<td>Bundi</td>
+<td>RJ08</td>
+<td>Karauli</td>
+<td>RJ34</td>
+</tr>
+<tr>
+<td>Chittaurgarh</td>
+<td>RJ09</td>
+<td>Pratapgarh</td>
+<td>RJ35</td>
+</tr>
+<tr>
+<td>Churu</td>
+<td>RJ10</td>
+<td>Beawar</td>
+<td>RJ36</td>
+</tr>
+<tr>
+<td>Dholpur</td>
+<td>RJ11</td>
+<td>Didwana</td>
+<td>RJ37</td>
+</tr>
+<tr>
+<td>Dungarpur</td>
+<td>RJ12</td>
+<td>Rawatbhata, Kota</td>
+<td>RJ38</td>
+</tr>
+<tr>
+<td>Sri Ganganagar</td>
+<td>RJ13</td>
+<td>Balotra, Barmer</td>
+<td>RJ39</td>
+</tr>
+<tr>
+<td>Jaipur</td>
+<td>RJ14</td>
+<td>Bhiwadi, Alwar</td>
+<td>RJ40</td>
+</tr>
+<tr>
+<td>Jaisalmer</td>
+<td>RJ15</td>
+<td>Chomu, Jaipur</td>
+<td>RJ41</td>
+</tr>
+<tr>
+<td>Jalore</td>
+<td>RJ16</td>
+<td>Kishangarh, Ajmer</td>
+<td>RJ42</td>
+</tr>
+<tr>
+<td>Jhalawar</td>
+<td>RJ17</td>
+<td>Phalodi, Jodhpur</td>
+<td>RJ43</td>
+</tr>
+<tr>
+<td>Jhunjhunu</td>
+<td>RJ18</td>
+<td>Sujangarh, Churu</td>
+<td>RJ44</td>
+</tr>
+<tr>
+<td>Jodhpur</td>
+<td>RJ19</td>
+<td>Jaipur</td>
+<td>RJ45</td>
+</tr>
+<tr>
+<td>Kota</td>
+<td>RJ20</td>
+<td>Abu road, Sirohi</td>
+<td>RJ46</td>
+</tr>
+<tr>
+<td>Nagaur</td>
+<td>RJ21</td>
+<td>Dudu, Jaipur</td>
+<td>RJ47</td>
+</tr>
+<tr>
+<td>Pali</td>
+<td>RJ22</td>
+<td>Kekri, Ajmer</td>
+<td>RJ48</td>
+</tr>
+<tr>
+<td>Sikar</td>
+<td>RJ23</td>
+<td>Nohar, Hanumangarh</td>
+<td>RJ49</td>
+</tr>
+<tr>
+<td>Sirohi</td>
+<td>RJ24</td>
+<td>Nokha, Bikaner</td>
+<td>RJ51</td>
+</tr>
+<tr>
+<td>Sawai Madhopur</td>
+<td>RJ25</td>
+<td>Shahpura, Bhilwara</td>
+<td>RJ52</td>
+</tr>
+<tr>
+<td>Tonk</td>
+<td>RJ26</td>
+<td>Shahpura, Jaipur</td>
+<td>RJ53</td>
+</tr>
+</tbody>
+</table>`;
+
+const PJList = `
+<table>
+<tbody>
+<tr>
+<td>Chandigarh</td>
+<td>PB01</td>
+<td>Rajpura</td>
+<td>PB39</td>
+</tr>
+<tr>
+<td>Amritsar</td>
+<td>PB02</td>
+<td>Rampura Phul</td>
+<td>PB40</td>
+</tr>
+<tr>
+<td>Bathinda</td>
+<td>PB03</td>
+<td>Sultanpur Lodhi</td>
+<td>PB41</td>
+</tr>
+<tr>
+<td>Faridkot</td>
+<td>PB04</td>
+<td>Samana</td>
+<td>PB42</td>
+</tr>
+<tr>
+<td>Faridkot</td>
+<td>PB05</td>
+<td>Samrala</td>
+<td>PB43</td>
+</tr>
+<tr>
+<td>Gurdaspur</td>
+<td>PB06</td>
+<td>Sunam</td>
+<td>PB44</td>
+</tr>
+<tr>
+<td>Hoshiarpur</td>
+<td>PB07</td>
+<td>Talwandi Sabo</td>
+<td>PB45</td>
+</tr>
+<tr>
+<td>Jalandhar</td>
+<td>PB08</td>
+<td>Tarn Taran</td>
+<td>PB46</td>
+</tr>
+<tr>
+<td>Kapurthala</td>
+<td>PB09</td>
+<td>Zira</td>
+<td>PB47</td>
+</tr>
+<tr>
+<td>Ludhiana</td>
+<td>PB10</td>
+<td>Amloh</td>
+<td>PB48</td>
+</tr>
+<tr>
+<td>Patiala</td>
+<td>PB11</td>
+<td>Khamano</td>
+<td>PB49</td>
+</tr>
+<tr>
+<td>Ropar</td>
+<td>PB12</td>
+<td>Budhlada</td>
+<td>PB50</td>
+</tr>
+<tr>
+<td>Sangrur</td>
+<td>PB13</td>
+<td>Jhunir / Sardulgarh</td>
+<td>PB51</td>
+</tr>
+<tr>
+<td>Ajnala</td>
+<td>PB14</td>
+<td>Bassi Pathana</td>
+<td>PB52</td>
+</tr>
+<tr>
+<td>Abohar</td>
+<td>PB15</td>
+<td>Malout</td>
+<td>PB53</td>
+</tr>
+<tr>
+<td>Anandpur Sahib</td>
+<td>PB16</td>
+<td>Mukerian</td>
+<td>PB54</td>
+</tr>
+<tr>
+<td>Baba Bakala</td>
+<td>PB17</td>
+<td>Payal</td>
+<td>PB55</td>
+</tr>
+<tr>
+<td>Batala</td>
+<td>PB18</td>
+<td>Raikot</td>
+<td>PB56</td>
+</tr>
+<tr>
+<td>Barnala</td>
+<td>PB19</td>
+<td>Bhulath</td>
+<td>PB57</td>
+</tr>
+<tr>
+<td>Balachaur</td>
+<td>PB20</td>
+<td>Dera Baba Nanak</td>
+<td>PB58</td>
+</tr>
+<tr>
+<td>Dasuya</td>
+<td>PB21</td>
+<td>Dhuri</td>
+<td>PB59</td>
+</tr>
+<tr>
+<td>Fazilka</td>
+<td>PB22</td>
+<td>Gidderbaha</td>
+<td>PB60</td>
+</tr>
+<tr>
+<td>Fatehgarh Sahib</td>
+<td>PB23</td>
+<td>Jalalabad</td>
+<td>PB61</td>
+</tr>
+<tr>
+<td>Garhshankar</td>
+<td>PB24</td>
+<td>Jaitu</td>
+<td>PB62</td>
+</tr>
+<tr>
+<td>Jagraon</td>
+<td>PB25</td>
+<td>Khadoor Sahib</td>
+<td>PB63</td>
+</tr>
+<tr>
+<td>Khanna</td>
+<td>PB26</td>
+<td>Moonak</td>
+<td>PB64</td>
+</tr>
+<tr>
+<td>Kharar</td>
+<td>PB27</td>
+<td>Mohali</td>
+<td>PB65</td>
+</tr>
+<tr>
+<td>Malerkotla</td>
+<td>PB28</td>
+<td>Nihal Singh Wala</td>
+<td>PB66</td>
+</tr>
+<tr>
+<td>Moga</td>
+<td>PB29</td>
+<td>Shahkot</td>
+<td>PB67</td>
+</tr>
+<tr>
+<td>Muktsar</td>
+<td>PB30</td>
+<td>Dhar Kalan</td>
+<td>PB68</td>
+</tr>
+<tr>
+<td>Mansa</td>
+<td>PB31</td>
+<td>Bagha Purana</td>
+<td>PB69</td>
+</tr>
+<tr>
+<td>Nawanshahr</td>
+<td>PB32</td>
+<td>Dera Bassi</td>
+<td>PB70</td>
+</tr>
+<tr>
+<td>Nakodar</td>
+<td>PB33</td>
+<td>Chamkaur Sahib</td>
+<td>PB71</td>
+</tr>
+<tr>
+<td>Nabha</td>
+<td>PB34</td>
+<td>Patran</td>
+<td>PB72</td>
+</tr>
+<tr>
+<td>Pathankot</td>
+<td>PB35</td>
+<td>Tappa Mandi</td>
+<td>PB73</td>
+</tr>
+<tr>
+<td>Phagwara</td>
+<td>PB36</td>
+<td>Nangal</td>
+<td>PB74</td>
+</tr>
+<tr>
+<td>Phillaur</td>
+<td>PB37</td>
+<td>Lehra</td>
+<td>PB75</td>
+</tr>
+<tr>
+<td>Patti</td>
+<td>PB38</td>
+<td>Ahmedgarh</td>
+<td>PB76</td>
+</tr>
+</tbody>
+</table>`;
+
+const APList = `
+<table>
+<tbody>
+<tr>
+<td>Adilabad – Mancherial / Nirmala</td>
+<td>AP01</td>
+</tr>
+<tr>
+<td>Anantapur – Hindupur</td>
+<td>AP02</td>
+</tr>
+<tr>
+<td>Chittoor – Tirupati / Madanapalle</td>
+<td>AP03</td>
+</tr>
+<tr>
+<td>Kadapa – Proddatur</td>
+<td>AP04</td>
+</tr>
+<tr>
+<td>Kakinada / Amalapuram / Rajahmundry</td>
+<td>AP05</td>
+</tr>
+<tr>
+<td>Guntur – Piduguralla / Narasaraopet / Repalle</td>
+<td>AP07</td>
+</tr>
+<tr>
+<td>Hyderabad Central (Khairtabad)</td>
+<td>AP09</td>
+</tr>
+<tr>
+<td>Hyderabad North (Secunderabad)</td>
+<td>AP10</td>
+</tr>
+<tr>
+<td>Hyderabad East (Malakpet)</td>
+<td>AP11</td>
+</tr>
+<tr>
+<td>Hyderabad South (Kisanbagh)</td>
+<td>AP12</td>
+</tr>
+<tr>
+<td>Hyderabad West (Mehdipatnam)</td>
+<td>AP13</td>
+</tr>
+<tr>
+<td>Karimnagar – Jagatai / Peddapalli</td>
+<td>AP15</td>
+</tr>
+<tr>
+<td>Vijayawada / Gudivada / Machilipatnam / Nandigama / Nuzvid</td>
+<td>AP16</td>
+</tr>
+<tr>
+<td>Khammam – Kothagudem / Sathupally / Yellandu</td>
+<td>AP20</td>
+</tr>
+<tr>
+<td>Kurnool – Adoni / Nondual</td>
+<td>AP21</td>
+</tr>
+<tr>
+<td>Mahbubnagar – Pebbair / Gadwal</td>
+<td>AP22</td>
+</tr>
+<tr>
+<td>Medak – Sangareddy / Siddipet / Patancheru</td>
+<td>AP23</td>
+</tr>
+<tr>
+<td>Nalgonda – Suryapet / Miryalaguda / Bhongir / Bibinagar</td>
+<td>AP24</td>
+</tr>
+<tr>
+<td>Nizamabad – Kamareddy</td>
+<td>AP25</td>
+</tr>
+<tr>
+<td>Nellore – Kavala / Gudur / Sullurpeta / Naidupet</td>
+<td>AP26</td>
+</tr>
+<tr>
+<td>Angola – Chirala / Mirzapur</td>
+<td>AP27</td>
+</tr>
+<tr>
+<td>Athpur / Kukatpally / Medical</td>
+<td>AP28</td>
+</tr>
+<tr>
+<td>Uppal Kalan / Ibrahimpatnam</td>
+<td>AP29</td>
+</tr>
+<tr>
+<td>Srikakulam -Tekkali / Palasa / Sopita / Ichchapuram / Kavita</td>
+<td>AP30</td>
+</tr>
+<tr>
+<td>Visakhapatnam – Gajuwaka / Anakapalli</td>
+<td>AP31</td>
+</tr>
+<tr>
+<td>Vizianagaram</td>
+<td>AP35</td>
+</tr>
+<tr>
+<td>Warangal – Jalgaon / Mahabubabad</td>
+<td>AP36</td>
+</tr>
+<tr>
+<td>Uluru / Jangareddygudem / Korver / Tadepalligudem / Tanuki /Bhimavaram / Palakollu / Chintalapudi</td>
+<td>AP37</td>
+</tr>
+</tbody>
+</table>`;
+
+const CGList = `
+<table>
+<tbody>
+<tr>
+<td>CG01</td>
+<td>-</td>
+<td>Govt of Chhattisgarh</td>
+<td>-</td>
+</tr>
+<tr>
+<td>CG02</td>
+<td>-</td>
+<td>Government of Chhattisgarh</td>
+<td>-</td>
+</tr>
+<tr>
+<td>CG03</td>
+<td>-</td>
+<td>Chhattisgarh Police</td>
+<td>-</td>
+</tr>
+<tr>
+<td>CG04</td>
+<td>RTO</td>
+<td>Raipur</td>
+<td>Raipur district</td>
+</tr>
+<tr>
+<td>CG05</td>
+<td>DTO</td>
+<td>Dhamtari</td>
+<td>Dhamtari district</td>
+</tr>
+<tr>
+<td>CG06</td>
+<td>DTO</td>
+<td>Mahasamund</td>
+<td>Mahasamund district</td>
+</tr>
+<tr>
+<td>CG07</td>
+<td>ARTO</td>
+<td>Durg</td>
+<td>Durg district</td>
+</tr>
+<tr>
+<td>CG08</td>
+<td>ARTO</td>
+<td>Rajnandgaon</td>
+<td>Rajnandgaon district</td>
+</tr>
+<tr>
+<td>CG09</td>
+<td>DTO</td>
+<td>Kabirdham</td>
+<td>Kabirdham district</td>
+</tr>
+<tr>
+<td>CG10</td>
+<td>RTO</td>
+<td>Bilaspur</td>
+<td>Bilaspur district</td>
+</tr>
+<tr>
+<td>CG11</td>
+<td>DTO</td>
+<td>Janjgir–Champa</td>
+<td>Janjgir–Champa district</td>
+</tr>
+<tr>
+<td>CG12</td>
+<td>ARTO</td>
+<td>Korba</td>
+<td>Korba district</td>
+</tr>
+<tr>
+<td>CG13</td>
+<td>ARTO</td>
+<td>Raigarh</td>
+<td>Raigarh district</td>
+</tr>
+<tr>
+<td>CG14</td>
+<td>DTO</td>
+<td>Jashpur</td>
+<td>Jashpur district</td>
+</tr>
+<tr>
+<td>CG15</td>
+<td>ARTO</td>
+<td>Surguja</td>
+<td>Surguja district</td>
+</tr>
+<tr>
+<td>CG16</td>
+<td>DTO</td>
+<td>Koriya</td>
+<td>Koriya district</td>
+</tr>
+<tr>
+<td>CG17</td>
+<td>RTO</td>
+<td>Bastar</td>
+<td>Bastar district</td>
+</tr>
+<tr>
+<td>CG18</td>
+<td>DTO</td>
+<td>Dantewada</td>
+<td>Dantewada district</td>
+</tr>
+<tr>
+<td>CG19</td>
+<td>DTO</td>
+<td>Kanker</td>
+<td>Kanker district</td>
+</tr>
+<tr>
+<td>CG20</td>
+<td>DTO</td>
+<td>Bijapur</td>
+<td>Bijapur district,</td>
+</tr>
+<tr>
+<td>CG21</td>
+<td>DTO</td>
+<td>Narayanpur</td>
+<td>Narayanpur district</td>
+</tr>
+<tr>
+<td>CG22</td>
+<td>DTO</td>
+<td>Baloda Bazar</td>
+<td>Baloda Bazar district</td>
+</tr>
+<tr>
+<td>CG23</td>
+<td>DTO</td>
+<td>Gariaband</td>
+<td>Gariaband district</td>
+</tr>
+<tr>
+<td>CG24</td>
+<td>DTO</td>
+<td>Balod</td>
+<td>Balod district</td>
+</tr>
+<tr>
+<td>CG25</td>
+<td>DTO</td>
+<td>Bemetara</td>
+<td>Bemetara district</td>
+</tr>
+<tr>
+<td>CG26</td>
+<td>DTO</td>
+<td>Sukma</td>
+<td>Sukma district</td>
+</tr>
+<tr>
+<td>CG27</td>
+<td>DTO</td>
+<td>Kondagaon</td>
+<td>Kondagaon district</td>
+</tr>
+<tr>
+<td>CG28</td>
+<td>DTO</td>
+<td>Mungeli</td>
+<td>Mungeli district</td>
+</tr>
+<tr>
+<td>CG29</td>
+<td>DTO</td>
+<td>Surajpur</td>
+<td>Surajpur district</td>
+</tr>
+<tr>
+<td>CG30</td>
+<td>DTO</td>
+<td>Balrampur</td>
+<td>Balrampur district</td>
+</tr>
+</tbody>
+</table>`;
+
+const JKList = `
+<table>
+<tbody>
+<tr>
+<td>JK01</td>
+<td>Srinagar</td>
+</tr>
+<tr>
+<td>JK02</td>
+<td>Jammu</td>
+</tr>
+<tr>
+<td>JK03</td>
+<td>Anantnag</td>
+</tr>
+<tr>
+<td>JK04</td>
+<td>Budgam</td>
+</tr>
+<tr>
+<td>JK05</td>
+<td>Baramulla</td>
+</tr>
+<tr>
+<td>JK06</td>
+<td>Doda</td>
+</tr>
+<tr>
+<td>JK08</td>
+<td>Kathua</td>
+</tr>
+<tr>
+<td>JK09</td>
+<td>Kupwara</td>
+</tr>
+<tr>
+<td>JK11</td>
+<td>Rajouri</td>
+</tr>
+<tr>
+<td>JK12</td>
+<td>Poonch</td>
+</tr>
+<tr>
+<td>JK13</td>
+<td>Pulwama</td>
+</tr>
+<tr>
+<td>JK14</td>
+<td>Udhampur</td>
+</tr>
+<tr>
+<td>JK15</td>
+<td>Bandipora</td>
+</tr>
+<tr>
+<td>JK16</td>
+<td>Ganderbal</td>
+</tr>
+<tr>
+<td>JK17</td>
+<td>Kishtwar</td>
+</tr>
+<tr>
+<td>JK18</td>
+<td>Kulgam</td>
+</tr>
+<tr>
+<td>JK19</td>
+<td>Ramban</td>
+</tr>
+<tr>
+<td>JK20</td>
+<td>Reasi</td>
+</tr>
+<tr>
+<td>JK21</td>
+<td>Samba</td>
+</tr>
+<tr>
+<td>JK22</td>
+<td>Shopian</td>
+</tr>
+</tbody>
+</table>`;
+
 // new DOMParser--
 const parser = new DOMParser();
 
 // Parsing value from string--
-const parsedValue = parser.parseFromString(BRList, "text/html");
+const parsedValue = parser.parseFromString(JKList, "text/html");
 const tbody = parsedValue.getElementsByTagName("tbody")[0];
 const tbodyChildrens = tbody.children;
 
 const rtoData = [];
-let id = 327;
+let id = 646;
 [...tbody.children].forEach((record) => {
   let recordChild = record.children;
   // console.log(recordChild[2].innerHTML?recordChild[2].innerHTML:"");
@@ -1633,6 +2758,7 @@ let id = 327;
     district: "-",
   });
   id++;
+  //
 });
 
 function download() {
