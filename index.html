@@ -52,7 +52,11 @@
               class="col-sm-12 d-flex justify-content-end align-items-center"
             >
               <ul class="d-flex gap-3 p-2 align-items-center">
-                <li onclick="alert('Author : LP');">ABOUT</li>
+                <li
+                  onclick="alert('Hey hi Im ( LP ) | Thank you for visiting my site !!');"
+                >
+                  ABOUT
+                </li>
                 <li class="l1">
                   <a href="https://github.com/LP-user1/" class="nav-link"
                     ><img
@@ -75,7 +79,7 @@
               <input
                 type="search"
                 title="Search Ex: TN74"
-                placeholder="Search RTO"
+                placeholder="Search RTO ex:TN74"
                 class="form-control shadow-none ps-3 text-uppercase"
                 id="searchVal"
               />
@@ -99,6 +103,11 @@
 
       <div class="container p-4">
         <div class="row">
+          <div class="d-flex justify-content-center d-none spin mt-4">
+            <div class="spinner-border" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+          </div>
           <div
             class="col shadow rounded-3 alert alert-danger d-flex gap-2 justify-content-center align-items-center d-none"
           >
@@ -115,7 +124,10 @@
                 />
               </svg>
             </p>
-            <p class="not-found fs-5 fw-light w-100 text-md-center">
+            <p
+              class="not-found fw-light w-100 text-center"
+              style="font-size: 1.2rem"
+            >
               Result not found !Try another RTO code.
             </p>
           </div>

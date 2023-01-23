@@ -7,25 +7,20 @@ const loc = document.querySelector("#loc");
 const type = document.querySelector("#type");
 const dist = document.querySelector("#dist");
 const btn = document.querySelector("button");
+const spinner = document.querySelector(".spin");
 
 inputEl.addEventListener("keyup", (e) => {
   if (e.key === "Enter") {
-    if (inputEl.value.length > 3) {
-      errorEl.parentElement.classList.add("d-none");
-      searchRec(inputEl.value);
-    } else {
-      errorEl.parentElement.classList.remove("d-none");
-      errorEl.parentElement.classList.remove("alert-danger");
-      errorEl.parentElement.classList.add("alert-info");
-      queryEl.parentElement.parentElement.classList.add("d-none");
-      errorEl.innerText = "Enter minimum 4 characters!! ex: TN74.";
-    }
+    findRecord();
   }
 });
-btn.addEventListener("click", () => {
+btn.addEventListener("click", findRecord);
+
+function findRecord() {
   if (inputEl.value.length > 3) {
     errorEl.parentElement.classList.add("d-none");
-    searchRec(inputEl.value);
+    spinnerActive();
+    setTimeout(searchRec(inputEl.value), 1000);
   } else {
     errorEl.parentElement.classList.remove("d-none");
     errorEl.parentElement.classList.remove("alert-danger");
@@ -33,10 +28,11 @@ btn.addEventListener("click", () => {
     queryEl.parentElement.parentElement.classList.add("d-none");
     errorEl.innerText = "Enter minimum 4 characters!! ex: TN74.";
   }
-});
+}
 
 async function getJson() {
   const response = await fetch("./assests/json/data.json");
+  spinnerActive();
   return await response.json();
 }
 
@@ -44,17 +40,9 @@ const searchRec = async (value) => {
   const jsonData = await getJson();
 
   const filterVal = jsonData.find((record) => {
-    // checking priority for Input as same in data.json
-    if (record.code === value.toUpperCase()) {
-      console.log(record.code, record.code === value.toUpperCase(), value);
-      return record.code === value.toUpperCase();
-    } else if (record.code === value.toUpperCase().startsWith(record.code)) {
-      return (
-        record.code === value || value.toUpperCase().startsWith(record.code)
-      );
-    }
+    return record.code === value.toUpperCase();
   });
-  console.log(filterVal);
+
   if (!filterVal) {
     errorEl.parentElement.classList.remove("d-none");
     errorEl.parentElement.classList.add("alert-danger");
@@ -71,3 +59,12 @@ const searchRec = async (value) => {
     dist.innerText = filterVal.district;
   }
 };
+
+function spinnerActive() {
+  let hidden = spinner.classList.contains("d-none");
+  if (hidden) {
+    spinner.classList.remove("d-none");
+  } else {
+    spinner.classList.add("d-none");
+  }
+}
