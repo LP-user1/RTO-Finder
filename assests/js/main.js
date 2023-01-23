@@ -39,9 +39,11 @@ async function getJson() {
 const searchRec = async (value) => {
   const jsonData = await getJson();
 
-  const filterVal = jsonData.find((record) => {
-    return record.code === value.toUpperCase();
-  });
+  const filterVal = jsonData.find(
+    (record) => record.code === value.toUpperCase()
+
+    // Better search with arrow function
+  );
 
   if (!filterVal) {
     errorEl.parentElement.classList.remove("d-none");
