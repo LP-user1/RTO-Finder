@@ -109,7 +109,7 @@
             </div>
           </div>
           <div
-            class="col shadow rounded-3 alert alert-danger d-flex gap-2 justify-content-center align-items-center d-none"
+            class="col-sm mt-5 mx-auto p-2 shadow-sm rounded-3 alert alert-danger d-flex gap-2 justify-content-center align-items-center d-none"
           >
             <p>
               <svg
@@ -140,7 +140,7 @@
             </p>
             <div class="table-responsive">
               <table
-                class="table table-hover table-bordered table-group-divider"
+                class="table table-hover table-bordered table-group-divider singleData d-none"
               >
                 <tr>
                   <td class="fw-semibold">ID</td>
@@ -163,9 +163,24 @@
                   <td class="fs-5" id="dist"></td>
                 </tr>
               </table>
+              <table
+                class="table table-hover table-striped table-bordered table-group-divider allData d-none"
+              >
+                <thead>
+                  <tr>
+                    <th>State</th>
+                    <th>Code</th>
+                    <th>Location</th>
+                  </tr>
+                </thead>
+                <tbody class="t-data"></tbody>
+              </table>
             </div>
           </div>
         </div>
+      </div>
+      <div class="container mt-2 fixed-top">
+        <div class="row" id="alert-sec"></div>
       </div>
     </main>
 

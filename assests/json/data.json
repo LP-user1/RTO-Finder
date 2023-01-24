@@ -1,6 +1,8 @@
 [
   {
     "id": 0,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN01",
     "location": "Chennai (Central): Ayanavaram",
     "type": "RTO",
@@ -8,6 +10,8 @@
   },
   {
     "id": 1,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN02",
     "location": "Chennai (North West): Anna Nagar",
     "type": "RTO",
@@ -15,6 +19,8 @@
   },
   {
     "id": 2,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN03",
     "location": "Chennai (North East): Tondiarpet",
     "type": "RTO",
@@ -22,6 +28,8 @@
   },
   {
     "id": 3,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN04",
     "location": "Chennai (East): Royapuram",
     "type": "RTO",
@@ -29,6 +37,8 @@
   },
   {
     "id": 4,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN05",
     "location": "Chennai (North): Kolathur",
     "type": "RTO",
@@ -36,6 +46,8 @@
   },
   {
     "id": 5,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN06",
     "location": "Chennai (South East): Mandavelli",
     "type": "RTO",
@@ -43,6 +55,8 @@
   },
   {
     "id": 6,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN07",
     "location": "Chennai (South): Adyar",
     "type": "RTO",
@@ -50,6 +64,8 @@
   },
   {
     "id": 7,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN09",
     "location": "Chennai (West): K. K. Nagar",
     "type": "RTO",
@@ -57,6 +73,8 @@
   },
   {
     "id": 8,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN10",
     "location": "Chennai (South West): Virugambakkam",
     "type": "RTO",
@@ -64,6 +82,8 @@
   },
   {
     "id": 9,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN11",
     "location": "Tambaram",
     "type": "RTO",
@@ -71,6 +91,8 @@
   },
   {
     "id": 10,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN12",
     "location": "Poonamallee",
     "type": "RTO",
@@ -78,6 +100,8 @@
   },
   {
     "id": 11,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN13",
     "location": "Ambattur",
     "type": "RTO",
@@ -85,6 +109,8 @@
   },
   {
     "id": 12,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN14",
     "location": "Sholinganallur",
     "type": "RTO",
@@ -92,6 +118,8 @@
   },
   {
     "id": 13,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN15",
     "location": "Ulundurpet",
     "type": "RTO",
@@ -99,6 +127,8 @@
   },
   {
     "id": 14,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN15Z",
     "location": "Kallakurichi",
     "type": "UO",
@@ -106,6 +136,8 @@
   },
   {
     "id": 15,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN16",
     "location": "Tindivanam",
     "type": "RTO",
@@ -113,6 +145,8 @@
   },
   {
     "id": 16,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN16Z",
     "location": "Gingee",
     "type": "UO",
@@ -120,6 +154,8 @@
   },
   {
     "id": 17,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN18",
     "location": "Red Hills",
     "type": "RTO",
@@ -127,6 +163,8 @@
   },
   {
     "id": 18,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN18Y",
     "location": "Gummidipoondi",
     "type": "UO",
@@ -134,6 +172,8 @@
   },
   {
     "id": 19,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN19",
     "location": "Chengalpattu",
     "type": "RTO",
@@ -141,6 +181,8 @@
   },
   {
     "id": 20,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN19Z",
     "location": "Madurantakam",
     "type": "UO",
@@ -148,6 +190,8 @@
   },
   {
     "id": 21,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN20",
     "location": "Tiruvallur",
     "type": "RTO",
@@ -155,6 +199,8 @@
   },
   {
     "id": 22,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN20X",
     "location": "Thiruthani",
     "type": "UO",
@@ -162,6 +208,8 @@
   },
   {
     "id": 23,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN21",
     "location": "Kanchipuram",
     "type": "RTO",
@@ -169,6 +217,8 @@
   },
   {
     "id": 24,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN22",
     "location": "Meenambakkam",
     "type": "RTO",
@@ -176,6 +226,8 @@
   },
   {
     "id": 25,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN23",
     "location": "Vellore",
     "type": "RTO",
@@ -183,6 +235,8 @@
   },
   {
     "id": 26,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN23T",
     "location": "Gudiyatham",
     "type": "UO",
@@ -190,6 +244,8 @@
   },
   {
     "id": 27,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN24",
     "location": "Krishnagiri",
     "type": "RTO",
@@ -197,6 +253,8 @@
   },
   {
     "id": 28,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN25",
     "location": "Thiruvannamalai",
     "type": "RTO",
@@ -204,6 +262,8 @@
   },
   {
     "id": 29,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN27",
     "location": "Salem",
     "type": "Not In Use",
@@ -211,6 +271,8 @@
   },
   {
     "id": 30,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN28",
     "location": "Namakkal (North)",
     "type": "RTO",
@@ -218,6 +280,8 @@
   },
   {
     "id": 31,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN28Z",
     "location": "Rasipuram",
     "type": "UO",
@@ -225,6 +289,8 @@
   },
   {
     "id": 32,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN29",
     "location": "Dharmapuri",
     "type": "RTO",
@@ -232,6 +298,8 @@
   },
   {
     "id": 33,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN29W",
     "location": "Palacode",
     "type": "UO",
@@ -239,6 +307,8 @@
   },
   {
     "id": 34,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN29Z",
     "location": "Harur",
     "type": "UO",
@@ -246,6 +316,8 @@
   },
   {
     "id": 35,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN30",
     "location": "Salem (West)",
     "type": "RTO",
@@ -253,6 +325,8 @@
   },
   {
     "id": 36,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN30W",
     "location": "Omalur",
     "type": "UO",
@@ -260,6 +334,8 @@
   },
   {
     "id": 37,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN31",
     "location": "Cuddalore",
     "type": "RTO",
@@ -267,6 +343,8 @@
   },
   {
     "id": 38,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN31Z",
     "location": "Panruti",
     "type": "UO",
@@ -274,6 +352,8 @@
   },
   {
     "id": 39,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN32",
     "location": "Villupuram",
     "type": "RTO",
@@ -281,6 +361,8 @@
   },
   {
     "id": 40,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN33",
     "location": "Erode (East)",
     "type": "RTO",
@@ -288,6 +370,8 @@
   },
   {
     "id": 41,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN34",
     "location": "Tiruchengode",
     "type": "RTO",
@@ -295,6 +379,8 @@
   },
   {
     "id": 42,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN34Z",
     "location": "Kumarapalayam",
     "type": "UO",
@@ -302,6 +388,8 @@
   },
   {
     "id": 43,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN36",
     "location": "Gobichettipalayam",
     "type": "RTO",
@@ -309,6 +397,8 @@
   },
   {
     "id": 44,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN36W",
     "location": "Bhavani",
     "type": "UO",
@@ -316,6 +406,8 @@
   },
   {
     "id": 45,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN36Z",
     "location": "Sathyamangalam",
     "type": "UO",
@@ -323,6 +415,8 @@
   },
   {
     "id": 46,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN37",
     "location": "Coimbatore (South)",
     "type": "RTO",
@@ -330,6 +424,8 @@
   },
   {
     "id": 47,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN37Z",
     "location": "Sulur",
     "type": "UO",
@@ -337,6 +433,8 @@
   },
   {
     "id": 48,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN38",
     "location": "Coimbatore (North)",
     "type": "RTO",
@@ -344,6 +442,8 @@
   },
   {
     "id": 49,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN39",
     "location": "Tirupur (North)",
     "type": "RTO",
@@ -351,6 +451,8 @@
   },
   {
     "id": 50,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN39Z",
     "location": "Avinashi",
     "type": "UO",
@@ -358,6 +460,8 @@
   },
   {
     "id": 51,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN40",
     "location": "Mettupalayam",
     "type": "RTO",
@@ -365,6 +469,8 @@
   },
   {
     "id": 52,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN41",
     "location": "Pollachi",
     "type": "RTO",
@@ -372,6 +478,8 @@
   },
   {
     "id": 53,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN41W",
     "location": "Valparai",
     "type": "UO",
@@ -379,6 +487,8 @@
   },
   {
     "id": 54,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN42",
     "location": "Tirupur (South)",
     "type": "RTO",
@@ -386,6 +496,8 @@
   },
   {
     "id": 55,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN43",
     "location": "Ooty",
     "type": "RTO",
@@ -393,6 +505,8 @@
   },
   {
     "id": 56,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN43Z",
     "location": "Gudalur",
     "type": "UO",
@@ -400,6 +514,8 @@
   },
   {
     "id": 57,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN45",
     "location": "Tiruchirapalli (West)",
     "type": "RTO",
@@ -407,6 +523,8 @@
   },
   {
     "id": 58,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN45Z",
     "location": "Manapparai",
     "type": "UO",
@@ -414,6 +532,8 @@
   },
   {
     "id": 59,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN46",
     "location": "Perambalur",
     "type": "RTO",
@@ -421,6 +541,8 @@
   },
   {
     "id": 60,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN47",
     "location": "Karur",
     "type": "RTO",
@@ -428,6 +550,8 @@
   },
   {
     "id": 61,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN47X",
     "location": "Manmangalam",
     "type": "UO",
@@ -435,6 +559,8 @@
   },
   {
     "id": 62,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN47Y",
     "location": "Aravakurichi",
     "type": "UO",
@@ -442,6 +568,8 @@
   },
   {
     "id": 63,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN47Z",
     "location": "Kulithalai",
     "type": "UO",
@@ -449,6 +577,8 @@
   },
   {
     "id": 64,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN48",
     "location": "Srirangam",
     "type": "RTO",
@@ -456,6 +586,8 @@
   },
   {
     "id": 65,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN48Z",
     "location": "Thuraiyur",
     "type": "UO",
@@ -463,6 +595,8 @@
   },
   {
     "id": 66,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN48Y",
     "location": "Musiri",
     "type": "UO",
@@ -470,6 +604,8 @@
   },
   {
     "id": 67,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN48X",
     "location": "Lalgudi",
     "type": "UO",
@@ -477,6 +613,8 @@
   },
   {
     "id": 68,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN49",
     "location": "Thanjavur",
     "type": "RTO",
@@ -484,6 +622,8 @@
   },
   {
     "id": 69,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN49Y",
     "location": "Pattukottai",
     "type": "UO",
@@ -491,6 +631,8 @@
   },
   {
     "id": 70,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN50",
     "location": "Tiruvarur",
     "type": "RTO",
@@ -498,6 +640,8 @@
   },
   {
     "id": 71,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN50Y",
     "location": "Thiruthuraipoondi",
     "type": "UO",
@@ -505,6 +649,8 @@
   },
   {
     "id": 72,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN50Z",
     "location": "Mannargudi",
     "type": "UO",
@@ -512,6 +658,8 @@
   },
   {
     "id": 73,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN51",
     "location": "Nagapattinam",
     "type": "RTO",
@@ -519,6 +667,8 @@
   },
   {
     "id": 74,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN52",
     "location": "Sankagiri",
     "type": "RTO",
@@ -526,6 +676,8 @@
   },
   {
     "id": 75,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN54",
     "location": "Salem (East)",
     "type": "RTO",
@@ -533,6 +685,8 @@
   },
   {
     "id": 76,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN55",
     "location": "Pudukottai",
     "type": "RTO",
@@ -540,6 +694,8 @@
   },
   {
     "id": 77,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN55Y",
     "location": "Illuppur",
     "type": "UO",
@@ -547,6 +703,8 @@
   },
   {
     "id": 78,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN55Z",
     "location": "Aranthangi",
     "type": "UO",
@@ -554,6 +712,8 @@
   },
   {
     "id": 79,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN56",
     "location": "Perundurai",
     "type": "RTO",
@@ -561,6 +721,8 @@
   },
   {
     "id": 80,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN57",
     "location": "Dindigul",
     "type": "RTO",
@@ -568,6 +730,8 @@
   },
   {
     "id": 81,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN57V",
     "location": "Vedasandur",
     "type": "RTO",
@@ -575,6 +739,8 @@
   },
   {
     "id": 82,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN57W",
     "location": "Batlagundu",
     "type": "RTO",
@@ -582,6 +748,8 @@
   },
   {
     "id": 83,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN58",
     "location": "Madurai (South)",
     "type": "RTO",
@@ -589,6 +757,8 @@
   },
   {
     "id": 84,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN58Y",
     "location": "Usilampatti",
     "type": "UO",
@@ -596,6 +766,8 @@
   },
   {
     "id": 85,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN58Z",
     "location": "Thirumangalam",
     "type": "UO",
@@ -603,6 +775,8 @@
   },
   {
     "id": 86,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN59",
     "location": "Madurai (North)",
     "type": "RTO",
@@ -610,6 +784,8 @@
   },
   {
     "id": 87,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN59V",
     "location": "Vadipatti",
     "type": "UO",
@@ -617,6 +793,8 @@
   },
   {
     "id": 88,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN59Z",
     "location": "Melur",
     "type": "UO",
@@ -624,6 +802,8 @@
   },
   {
     "id": 89,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN60",
     "location": "Theni",
     "type": "RTO",
@@ -631,6 +811,8 @@
   },
   {
     "id": 90,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN60Z",
     "location": "Uthamapalayam",
     "type": "UO",
@@ -638,6 +820,8 @@
   },
   {
     "id": 91,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN61",
     "location": "Ariyalur",
     "type": "RTO",
@@ -645,6 +829,8 @@
   },
   {
     "id": 92,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN63",
     "location": "Sivaganga",
     "type": "RTO",
@@ -652,6 +838,8 @@
   },
   {
     "id": 93,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN63Z",
     "location": "Karaikudi",
     "type": "UO",
@@ -659,6 +847,8 @@
   },
   {
     "id": 94,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN64",
     "location": "Madurai (Central)",
     "type": "RTO",
@@ -666,6 +856,8 @@
   },
   {
     "id": 95,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN65",
     "location": "Ramanathapuram",
     "type": "RTO",
@@ -673,6 +865,8 @@
   },
   {
     "id": 96,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN65Z",
     "location": "Paramakudi",
     "type": "UO",
@@ -680,6 +874,8 @@
   },
   {
     "id": 97,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN66",
     "location": "Coimbatore (Central)",
     "type": "RTO",
@@ -687,6 +883,8 @@
   },
   {
     "id": 98,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN67",
     "location": "Virudhunagar",
     "type": "RTO",
@@ -694,6 +892,8 @@
   },
   {
     "id": 99,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN67W",
     "location": "Aruppukottai",
     "type": "UO",
@@ -701,6 +901,8 @@
   },
   {
     "id": 100,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN68",
     "location": "Kumbakonam",
     "type": "RTO",
@@ -708,6 +910,8 @@
   },
   {
     "id": 101,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN69",
     "location": "Thoothukudi",
     "type": "RTO",
@@ -715,6 +919,8 @@
   },
   {
     "id": 102,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN70",
     "location": "Hosur",
     "type": "RTO",
@@ -722,6 +928,8 @@
   },
   {
     "id": 103,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN72",
     "location": "Tirunelveli",
     "type": "RTO",
@@ -729,6 +937,8 @@
   },
   {
     "id": 104,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN72V",
     "location": "Valliyur",
     "type": "UO",
@@ -736,6 +946,8 @@
   },
   {
     "id": 105,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN73",
     "location": "Ranipet",
     "type": "RTO",
@@ -743,6 +955,8 @@
   },
   {
     "id": 106,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN73Z",
     "location": "Arakkonam",
     "type": "UO",
@@ -750,6 +964,8 @@
   },
   {
     "id": 107,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN74",
     "location": "Nagercoil",
     "type": "RTO",
@@ -757,6 +973,8 @@
   },
   {
     "id": 108,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN75",
     "location": "Marthandam",
     "type": "RTO",
@@ -764,6 +982,8 @@
   },
   {
     "id": 109,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN76",
     "location": "Tenkasi",
     "type": "RTO",
@@ -771,6 +991,8 @@
   },
   {
     "id": 110,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN76V",
     "location": "Ambasamudram",
     "type": "UO",
@@ -778,6 +1000,8 @@
   },
   {
     "id": 111,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN77",
     "location": "Attur",
     "type": "RTO",
@@ -785,6 +1009,8 @@
   },
   {
     "id": 112,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN77Z",
     "location": "Vazhapadi",
     "type": "UO",
@@ -792,6 +1018,8 @@
   },
   {
     "id": 113,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN78",
     "location": "Dharapuram",
     "type": "RTO",
@@ -799,6 +1027,8 @@
   },
   {
     "id": 114,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN78Z",
     "location": "Udumalpet",
     "type": "UO",
@@ -806,6 +1036,8 @@
   },
   {
     "id": 115,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN79",
     "location": "Sankarankovil",
     "type": "RTO",
@@ -813,6 +1045,8 @@
   },
   {
     "id": 116,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN81",
     "location": "Tiruchirapalli (East)",
     "type": "RTO",
@@ -820,6 +1054,8 @@
   },
   {
     "id": 117,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN81Z",
     "location": "Thiruverumbur",
     "type": "UO",
@@ -827,6 +1063,8 @@
   },
   {
     "id": 118,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN82",
     "location": "Mayiladuthurai",
     "type": "RTO",
@@ -834,6 +1072,8 @@
   },
   {
     "id": 119,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN82Z",
     "location": "Sirkazhi",
     "type": "RTO",
@@ -841,6 +1081,8 @@
   },
   {
     "id": 120,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN83",
     "location": "Vaniyambadi",
     "type": "RTO",
@@ -848,6 +1090,8 @@
   },
   {
     "id": 121,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN83Y",
     "location": "Ambur",
     "type": "UO",
@@ -855,6 +1099,8 @@
   },
   {
     "id": 122,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN83Z",
     "location": "Thirupattur",
     "type": "UO",
@@ -862,6 +1108,8 @@
   },
   {
     "id": 123,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN84",
     "location": "Srivilliputhur",
     "type": "RTO",
@@ -869,6 +1117,8 @@
   },
   {
     "id": 124,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN85",
     "location": "Kundrathur",
     "type": "RTO",
@@ -876,6 +1126,8 @@
   },
   {
     "id": 125,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN86",
     "location": "Erode (West)",
     "type": "RTO",
@@ -883,6 +1135,8 @@
   },
   {
     "id": 126,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN87",
     "location": "Sriperumbudur",
     "type": "RTO",
@@ -890,6 +1144,8 @@
   },
   {
     "id": 127,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN88",
     "location": "Namakkal (South)",
     "type": "RTO",
@@ -897,6 +1153,8 @@
   },
   {
     "id": 128,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN88Z",
     "location": "Paramathi Velur",
     "type": "UO",
@@ -904,6 +1162,8 @@
   },
   {
     "id": 129,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN90",
     "location": "Salem (South)",
     "type": "RTO",
@@ -911,6 +1171,8 @@
   },
   {
     "id": 130,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN91",
     "location": "Chidambaram",
     "type": "RTO",
@@ -918,6 +1180,8 @@
   },
   {
     "id": 131,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN91Y",
     "location": "Neyveli",
     "type": "UO",
@@ -925,6 +1189,8 @@
   },
   {
     "id": 132,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN91Z",
     "location": "Virudhachalam",
     "type": "UO",
@@ -932,6 +1198,8 @@
   },
   {
     "id": 133,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN92",
     "location": "Thiruchendur",
     "type": "RTO",
@@ -939,6 +1207,8 @@
   },
   {
     "id": 134,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN93",
     "location": "Mettur",
     "type": "RTO",
@@ -946,6 +1216,8 @@
   },
   {
     "id": 135,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN94",
     "location": "Palani",
     "type": "RTO",
@@ -953,6 +1225,8 @@
   },
   {
     "id": 136,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN94Z",
     "location": "Oddanchatram",
     "type": "UO",
@@ -960,6 +1234,8 @@
   },
   {
     "id": 137,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN95",
     "location": "Sivakasi",
     "type": "RTO",
@@ -967,6 +1243,8 @@
   },
   {
     "id": 138,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN96",
     "location": "Kovilpatti",
     "type": "RTO",
@@ -974,6 +1252,8 @@
   },
   {
     "id": 139,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN97",
     "location": "Arani",
     "type": "RTO",
@@ -981,6 +1261,8 @@
   },
   {
     "id": 140,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN97Z",
     "location": "Cheyyar",
     "type": "UO",
@@ -988,6 +1270,8 @@
   },
   {
     "id": 141,
+    "s_code": "TN",
+    "state": "TamilNadu",
     "code": "TN99",
     "location": "Coimbatore(West)",
     "type": "RTO",
@@ -995,6 +1279,8 @@
   },
   {
     "id": 143,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL01",
     "location": "Thiruvananthapuram",
     "type": "RTO",
@@ -1002,6 +1288,8 @@
   },
   {
     "id": 144,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL02",
     "location": "Kollam",
     "type": "RTO",
@@ -1009,6 +1297,8 @@
   },
   {
     "id": 145,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL03",
     "location": "Pathanamthitta",
     "type": "RTO",
@@ -1016,6 +1306,8 @@
   },
   {
     "id": 146,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL04",
     "location": "Alappuzha",
     "type": "RTO",
@@ -1023,6 +1315,8 @@
   },
   {
     "id": 147,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL05",
     "location": "Kottayam",
     "type": "RTO",
@@ -1030,6 +1324,8 @@
   },
   {
     "id": 148,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL06",
     "location": "Idukki",
     "type": "RTO",
@@ -1037,6 +1333,8 @@
   },
   {
     "id": 149,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL07",
     "location": "Ernakulam",
     "type": "RTO",
@@ -1044,6 +1342,8 @@
   },
   {
     "id": 150,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL08",
     "location": "Thrissur",
     "type": "RTO",
@@ -1051,6 +1351,8 @@
   },
   {
     "id": 151,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL09",
     "location": "Palakkad",
     "type": "RTO",
@@ -1058,6 +1360,8 @@
   },
   {
     "id": 152,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL10",
     "location": "Malappuram",
     "type": "RTO",
@@ -1065,6 +1369,8 @@
   },
   {
     "id": 153,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL11",
     "location": "Kozhikode",
     "type": "RTO",
@@ -1072,6 +1378,8 @@
   },
   {
     "id": 154,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL12",
     "location": "Wayanad",
     "type": "RTO",
@@ -1079,6 +1387,8 @@
   },
   {
     "id": 155,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL13",
     "location": "Kannur",
     "type": "RTO",
@@ -1086,6 +1396,8 @@
   },
   {
     "id": 156,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL14",
     "location": "Kasargode",
     "type": "RTO",
@@ -1093,6 +1405,8 @@
   },
   {
     "id": 157,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL15",
     "location": "Kerala",
     "type": "RTO",
@@ -1100,6 +1414,8 @@
   },
   {
     "id": 158,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL16",
     "location": "Attingal",
     "type": "RTO",
@@ -1107,6 +1423,8 @@
   },
   {
     "id": 159,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL17",
     "location": "Muvattupuzha",
     "type": "RTO",
@@ -1114,6 +1432,8 @@
   },
   {
     "id": 160,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL18",
     "location": "Vadakara",
     "type": "RTO",
@@ -1121,6 +1441,8 @@
   },
   {
     "id": 161,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL19",
     "location": "Parassala",
     "type": "RTO",
@@ -1128,6 +1450,8 @@
   },
   {
     "id": 162,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL20",
     "location": "Neyyattinkara",
     "type": "RTO",
@@ -1135,6 +1459,8 @@
   },
   {
     "id": 163,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL21",
     "location": "Nedumangad",
     "type": "RTO",
@@ -1142,6 +1468,8 @@
   },
   {
     "id": 164,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL22",
     "location": "Kazhakkoottam",
     "type": "RTO",
@@ -1149,6 +1477,8 @@
   },
   {
     "id": 165,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL23",
     "location": "Karunagapally",
     "type": "RTO",
@@ -1156,6 +1486,8 @@
   },
   {
     "id": 166,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL24",
     "location": "Kottarakara",
     "type": "RTO",
@@ -1163,6 +1495,8 @@
   },
   {
     "id": 167,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL25",
     "location": "Punalur",
     "type": "RTO",
@@ -1170,6 +1504,8 @@
   },
   {
     "id": 168,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL26",
     "location": "Adoor",
     "type": "RTO",
@@ -1177,6 +1513,8 @@
   },
   {
     "id": 169,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL27",
     "location": "Thiruvalla",
     "type": "RTO",
@@ -1184,6 +1522,8 @@
   },
   {
     "id": 170,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL28",
     "location": "Mallappally",
     "type": "RTO",
@@ -1191,6 +1531,8 @@
   },
   {
     "id": 171,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL29",
     "location": "Kayamkulam",
     "type": "RTO",
@@ -1198,6 +1540,8 @@
   },
   {
     "id": 172,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL30",
     "location": "Chengannur",
     "type": "RTO",
@@ -1205,6 +1549,8 @@
   },
   {
     "id": 173,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL31",
     "location": "Mavelikara",
     "type": "RTO",
@@ -1212,6 +1558,8 @@
   },
   {
     "id": 174,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL32",
     "location": "Cherthala",
     "type": "RTO",
@@ -1219,6 +1567,8 @@
   },
   {
     "id": 175,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL33",
     "location": "Changanassery",
     "type": "RTO",
@@ -1226,6 +1576,8 @@
   },
   {
     "id": 176,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL34",
     "location": "Kanjirappally",
     "type": "RTO",
@@ -1233,6 +1585,8 @@
   },
   {
     "id": 177,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL35",
     "location": "Pala",
     "type": "RTO",
@@ -1240,6 +1594,8 @@
   },
   {
     "id": 178,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL36",
     "location": "Vaikom",
     "type": "RTO",
@@ -1247,6 +1603,8 @@
   },
   {
     "id": 179,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL37",
     "location": "Vandiperiyar",
     "type": "RTO",
@@ -1254,6 +1612,8 @@
   },
   {
     "id": 180,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL38",
     "location": "Thodupuzha",
     "type": "RTO",
@@ -1261,6 +1621,8 @@
   },
   {
     "id": 181,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL39",
     "location": "Thripunithura",
     "type": "RTO",
@@ -1268,6 +1630,8 @@
   },
   {
     "id": 182,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL40",
     "location": "Perumbavoor",
     "type": "RTO",
@@ -1275,6 +1639,8 @@
   },
   {
     "id": 183,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL41",
     "location": "Aluva",
     "type": "RTO",
@@ -1282,6 +1648,8 @@
   },
   {
     "id": 184,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL42",
     "location": "North Paravur",
     "type": "RTO",
@@ -1289,6 +1657,8 @@
   },
   {
     "id": 185,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL43",
     "location": "Mattancherry",
     "type": "RTO",
@@ -1296,6 +1666,8 @@
   },
   {
     "id": 186,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL44",
     "location": "Kothamangalam",
     "type": "RTO",
@@ -1303,6 +1675,8 @@
   },
   {
     "id": 187,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL45",
     "location": "Irinjalakuda",
     "type": "RTO",
@@ -1310,6 +1684,8 @@
   },
   {
     "id": 188,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL46",
     "location": "Guruvayur",
     "type": "RTO",
@@ -1317,6 +1693,8 @@
   },
   {
     "id": 189,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL47",
     "location": "Kodungallur",
     "type": "RTO",
@@ -1324,6 +1702,8 @@
   },
   {
     "id": 190,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL48",
     "location": "Wadakkancherry",
     "type": "RTO",
@@ -1331,6 +1711,8 @@
   },
   {
     "id": 191,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL49",
     "location": "Alathur",
     "type": "RTO",
@@ -1338,6 +1720,8 @@
   },
   {
     "id": 192,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL50",
     "location": "Mannarghat",
     "type": "RTO",
@@ -1345,6 +1729,8 @@
   },
   {
     "id": 193,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL51",
     "location": "Ottappalam",
     "type": "RTO",
@@ -1352,6 +1738,8 @@
   },
   {
     "id": 194,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL52",
     "location": "Pattambi",
     "type": "RTO",
@@ -1359,6 +1747,8 @@
   },
   {
     "id": 195,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL53",
     "location": "Perinthalmanna",
     "type": "RTO",
@@ -1366,6 +1756,8 @@
   },
   {
     "id": 196,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL54",
     "location": "Ponnani",
     "type": "RTO",
@@ -1373,6 +1765,8 @@
   },
   {
     "id": 197,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL55",
     "location": "Tirur",
     "type": "RTO",
@@ -1380,6 +1774,8 @@
   },
   {
     "id": 198,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL56",
     "location": "Koyilandi",
     "type": "RTO",
@@ -1387,6 +1783,8 @@
   },
   {
     "id": 199,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL57",
     "location": "Koduvally",
     "type": "RTO",
@@ -1394,6 +1792,8 @@
   },
   {
     "id": 200,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL58",
     "location": "Thalassery",
     "type": "RTO",
@@ -1401,6 +1801,8 @@
   },
   {
     "id": 201,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL59",
     "location": "Taliparamba",
     "type": "RTO",
@@ -1408,6 +1810,8 @@
   },
   {
     "id": 202,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL60",
     "location": "Kanhangad",
     "type": "RTO",
@@ -1415,6 +1819,8 @@
   },
   {
     "id": 203,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL61",
     "location": "Kunnathur",
     "type": "RTO",
@@ -1422,6 +1828,8 @@
   },
   {
     "id": 204,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL62",
     "location": "Ranni",
     "type": "RTO",
@@ -1429,6 +1837,8 @@
   },
   {
     "id": 205,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL63",
     "location": "Angamaly",
     "type": "RTO",
@@ -1436,6 +1846,8 @@
   },
   {
     "id": 206,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL64",
     "location": "Chalakkudy",
     "type": "RTO",
@@ -1443,6 +1855,8 @@
   },
   {
     "id": 207,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL65",
     "location": "Thirurangadi",
     "type": "RTO",
@@ -1450,6 +1864,8 @@
   },
   {
     "id": 208,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL66",
     "location": "Kuttanadu",
     "type": "RTO",
@@ -1457,6 +1873,8 @@
   },
   {
     "id": 209,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL67",
     "location": "Uzhavoor",
     "type": "RTO",
@@ -1464,6 +1882,8 @@
   },
   {
     "id": 210,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL68",
     "location": "Devikulam",
     "type": "RTO",
@@ -1471,6 +1891,8 @@
   },
   {
     "id": 211,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL69",
     "location": "Udumbanchola",
     "type": "RTO",
@@ -1478,6 +1900,8 @@
   },
   {
     "id": 212,
+    "s_code": "KL",
+    "state": "Kerala",
     "code": "KL35",
     "location": "Pala",
     "type": "RTO",
@@ -1485,6 +1909,8 @@
   },
   {
     "id": 213,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD01",
     "location": "Balasore",
     "type": "RTO",
@@ -1492,6 +1918,8 @@
   },
   {
     "id": 214,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD02",
     "location": "Bhubaneswar",
     "type": "RTO",
@@ -1499,6 +1927,8 @@
   },
   {
     "id": 215,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD03",
     "location": "Balangir",
     "type": "RTO",
@@ -1506,6 +1936,8 @@
   },
   {
     "id": 216,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD04",
     "location": "Chandikhole",
     "type": "RTO",
@@ -1513,6 +1945,8 @@
   },
   {
     "id": 217,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD05",
     "location": "Cuttack",
     "type": "RTO",
@@ -1520,6 +1954,8 @@
   },
   {
     "id": 218,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD06",
     "location": "Dhenkanal",
     "type": "RTO",
@@ -1527,6 +1963,8 @@
   },
   {
     "id": 219,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD07",
     "location": "Ganjam",
     "type": "RTO",
@@ -1534,6 +1972,8 @@
   },
   {
     "id": 220,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD08",
     "location": "Kalahandi",
     "type": "RTO",
@@ -1541,6 +1981,8 @@
   },
   {
     "id": 221,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD09",
     "location": "Keonjhar",
     "type": "RTO",
@@ -1548,6 +1990,8 @@
   },
   {
     "id": 222,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD10",
     "location": "Koraput",
     "type": "RTO",
@@ -1555,6 +1999,8 @@
   },
   {
     "id": 223,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD11",
     "location": "Mayurbhanj",
     "type": "RTO",
@@ -1562,6 +2008,8 @@
   },
   {
     "id": 224,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD12",
     "location": "Phulbani",
     "type": "RTO",
@@ -1569,6 +2017,8 @@
   },
   {
     "id": 225,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD13",
     "location": "Puri",
     "type": "RTO",
@@ -1576,6 +2026,8 @@
   },
   {
     "id": 226,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD14",
     "location": "Rourkela",
     "type": "RTO",
@@ -1583,6 +2035,8 @@
   },
   {
     "id": 227,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD15",
     "location": "Sambalpur",
     "type": "RTO",
@@ -1590,6 +2044,8 @@
   },
   {
     "id": 228,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD16",
     "location": "Sundergarh",
     "type": "RTO",
@@ -1597,6 +2053,8 @@
   },
   {
     "id": 229,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD17",
     "location": "Baragarh",
     "type": "RTO",
@@ -1604,6 +2062,8 @@
   },
   {
     "id": 230,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD18",
     "location": "Rayagada",
     "type": "RTO",
@@ -1611,6 +2071,8 @@
   },
   {
     "id": 231,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD19",
     "location": "Angul",
     "type": "RTO",
@@ -1618,6 +2080,8 @@
   },
   {
     "id": 232,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD20",
     "location": "Gajapati",
     "type": "RTO",
@@ -1625,6 +2089,8 @@
   },
   {
     "id": 233,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD21",
     "location": "Jagatsinghpur",
     "type": "RTO",
@@ -1632,6 +2098,8 @@
   },
   {
     "id": 234,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD22",
     "location": "Bhadrak",
     "type": "RTO",
@@ -1639,6 +2107,8 @@
   },
   {
     "id": 235,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD23",
     "location": "Jharsuguda",
     "type": "RTO",
@@ -1646,6 +2116,8 @@
   },
   {
     "id": 236,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD24",
     "location": "Nabarangpur",
     "type": "RTO",
@@ -1653,6 +2125,8 @@
   },
   {
     "id": 237,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD25",
     "location": "Nayagarh",
     "type": "RTO",
@@ -1660,6 +2134,8 @@
   },
   {
     "id": 238,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD26",
     "location": "Nuapada",
     "type": "RTO",
@@ -1667,6 +2143,8 @@
   },
   {
     "id": 239,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD27",
     "location": "Boudh",
     "type": "RTO",
@@ -1674,6 +2152,8 @@
   },
   {
     "id": 240,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD28",
     "location": "Debagarh",
     "type": "RTO",
@@ -1681,6 +2161,8 @@
   },
   {
     "id": 241,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD29",
     "location": "Kendrapara",
     "type": "RTO",
@@ -1688,6 +2170,8 @@
   },
   {
     "id": 242,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD30",
     "location": "Malkangiri",
     "type": "RTO",
@@ -1695,6 +2179,8 @@
   },
   {
     "id": 243,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD31",
     "location": "Sonepur",
     "type": "RTO",
@@ -1702,6 +2188,8 @@
   },
   {
     "id": 244,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD32",
     "location": "Bhanjanagar",
     "type": "RTO",
@@ -1709,6 +2197,8 @@
   },
   {
     "id": 245,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD33",
     "location": "Bhubaneswar-II",
     "type": "RTO",
@@ -1716,6 +2206,8 @@
   },
   {
     "id": 246,
+    "s_code": "OD",
+    "state": "Orissa",
     "code": "OD34",
     "location": "Jajpur",
     "type": "RTO",
@@ -1723,6 +2215,8 @@
   },
   {
     "id": 247,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH27",
     "location": "Pune North",
     "type": "RTO",
@@ -1730,6 +2224,8 @@
   },
   {
     "id": 248,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH28",
     "location": "Buldana",
     "type": "RTO",
@@ -1737,6 +2233,8 @@
   },
   {
     "id": 249,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH29",
     "location": "Yavatmal",
     "type": "RTO",
@@ -1744,6 +2242,8 @@
   },
   {
     "id": 250,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH30",
     "location": "Akola",
     "type": "RTO",
@@ -1751,6 +2251,8 @@
   },
   {
     "id": 251,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH31",
     "location": "Nagpur",
     "type": "RTO",
@@ -1758,6 +2260,8 @@
   },
   {
     "id": 252,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH32",
     "location": "Wardha",
     "type": "RTO",
@@ -1765,6 +2269,8 @@
   },
   {
     "id": 253,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH33",
     "location": "Gadchiroli",
     "type": "RTO",
@@ -1772,6 +2278,8 @@
   },
   {
     "id": 254,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH34",
     "location": "Chandrapur",
     "type": "RTO",
@@ -1779,6 +2287,8 @@
   },
   {
     "id": 255,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH35",
     "location": "Gondia",
     "type": "RTO",
@@ -1786,6 +2296,8 @@
   },
   {
     "id": 256,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH36",
     "location": "Bhandara",
     "type": "RTO",
@@ -1793,6 +2305,8 @@
   },
   {
     "id": 257,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH37",
     "location": "Washim",
     "type": "RTO",
@@ -1800,6 +2314,8 @@
   },
   {
     "id": 258,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH38",
     "location": "Hingoli",
     "type": "RTO",
@@ -1807,6 +2323,8 @@
   },
   {
     "id": 259,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH39",
     "location": "Nandurbar",
     "type": "RTO",
@@ -1814,6 +2332,8 @@
   },
   {
     "id": 260,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH40",
     "location": "Wadi, Nagpur (rural)",
     "type": "RTO",
@@ -1821,6 +2341,8 @@
   },
   {
     "id": 261,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH41",
     "location": "Malegaon, Nashik District",
     "type": "RTO",
@@ -1828,6 +2350,8 @@
   },
   {
     "id": 262,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH42",
     "location": "Baramati, Pune",
     "type": "RTO",
@@ -1835,6 +2359,8 @@
   },
   {
     "id": 263,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH43",
     "location": "Navi Mumbai",
     "type": "RTO",
@@ -1842,6 +2368,8 @@
   },
   {
     "id": 264,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH44",
     "location": "Ambejogai, Beed",
     "type": "RTO",
@@ -1849,6 +2377,8 @@
   },
   {
     "id": 265,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH45",
     "location": "Akluj, Solapur",
     "type": "RTO",
@@ -1856,6 +2386,8 @@
   },
   {
     "id": 266,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH46",
     "location": "Navi Mumbai",
     "type": "RTO",
@@ -1863,6 +2395,8 @@
   },
   {
     "id": 267,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH47",
     "location": "Mumbai North",
     "type": "RTO",
@@ -1870,6 +2404,8 @@
   },
   {
     "id": 268,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH48",
     "location": "Vasai-Virar",
     "type": "RTO",
@@ -1877,6 +2413,8 @@
   },
   {
     "id": 269,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH49",
     "location": "Nagpur East",
     "type": "RTO",
@@ -1884,6 +2422,8 @@
   },
   {
     "id": 270,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH50",
     "location": "Karad",
     "type": "RTO",
@@ -1891,6 +2431,8 @@
   },
   {
     "id": 271,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH51",
     "location": "Nashik",
     "type": "RTO",
@@ -1898,6 +2440,8 @@
   },
   {
     "id": 272,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH52",
     "location": "Ratnagiri district",
     "type": "RTO",
@@ -1905,6 +2449,8 @@
   },
   {
     "id": 273,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH01",
     "location": "Mumbai (South)",
     "type": "RTO",
@@ -1912,6 +2458,8 @@
   },
   {
     "id": 274,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH02",
     "location": "Mumbai (West)",
     "type": "RTO",
@@ -1919,6 +2467,8 @@
   },
   {
     "id": 275,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH03",
     "location": "Mumbai (East)",
     "type": "RTO",
@@ -1926,6 +2476,8 @@
   },
   {
     "id": 276,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH04",
     "location": "Thane",
     "type": "RTO",
@@ -1933,6 +2485,8 @@
   },
   {
     "id": 277,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH05",
     "location": "Kalyan",
     "type": "RTO",
@@ -1940,6 +2494,8 @@
   },
   {
     "id": 278,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH06",
     "location": "Raigad",
     "type": "RTO",
@@ -1947,6 +2503,8 @@
   },
   {
     "id": 279,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH07",
     "location": "Sindhudurg",
     "type": "RTO",
@@ -1954,6 +2512,8 @@
   },
   {
     "id": 280,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH08",
     "location": "Ratnagiri",
     "type": "RTO",
@@ -1961,6 +2521,8 @@
   },
   {
     "id": 281,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH09",
     "location": "Kolhapur",
     "type": "RTO",
@@ -1968,6 +2530,8 @@
   },
   {
     "id": 282,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH10",
     "location": "Sangli",
     "type": "RTO",
@@ -1975,6 +2539,8 @@
   },
   {
     "id": 283,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH11",
     "location": "Satara",
     "type": "RTO",
@@ -1982,6 +2548,8 @@
   },
   {
     "id": 284,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH12",
     "location": "Pune",
     "type": "RTO",
@@ -1989,6 +2557,8 @@
   },
   {
     "id": 285,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH13",
     "location": "Solapur",
     "type": "RTO",
@@ -1996,6 +2566,8 @@
   },
   {
     "id": 286,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH14",
     "location": "Nashik",
     "type": "RTO",
@@ -2003,6 +2575,8 @@
   },
   {
     "id": 287,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH15",
     "location": "Ahmednagar",
     "type": "RTO",
@@ -2010,6 +2584,8 @@
   },
   {
     "id": 288,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH16",
     "location": "Shrirampur, Ahmednagar District",
     "type": "RTO",
@@ -2017,6 +2593,8 @@
   },
   {
     "id": 289,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH17",
     "location": "Dhule",
     "type": "RTO",
@@ -2024,6 +2602,8 @@
   },
   {
     "id": 290,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH18",
     "location": "Jalgaon",
     "type": "RTO",
@@ -2031,6 +2611,8 @@
   },
   {
     "id": 291,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH19",
     "location": "Aurangabad",
     "type": "RTO",
@@ -2038,6 +2620,8 @@
   },
   {
     "id": 292,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH20",
     "location": "Jalna City",
     "type": "RTO",
@@ -2045,6 +2629,8 @@
   },
   {
     "id": 293,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH21",
     "location": "Beed",
     "type": "RTO",
@@ -2052,6 +2638,8 @@
   },
   {
     "id": 294,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH22",
     "location": "Parbhani",
     "type": "RTO",
@@ -2059,6 +2647,8 @@
   },
   {
     "id": 295,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH23",
     "location": "Latur",
     "type": "RTO",
@@ -2066,6 +2656,8 @@
   },
   {
     "id": 296,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH24",
     "location": "Osmanabad",
     "type": "RTO",
@@ -2073,6 +2665,8 @@
   },
   {
     "id": 297,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH25",
     "location": "Nanded",
     "type": "RTO",
@@ -2080,6 +2674,8 @@
   },
   {
     "id": 298,
+    "s_code": "MH",
+    "state": "Maharashtra",
     "code": "MH26",
     "location": "Amravati",
     "type": "RTO",
@@ -2087,6 +2683,8 @@
   },
   {
     "id": 299,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS01",
     "location": "Guwahati, Kamrup",
     "type": "RTO",
@@ -2094,6 +2692,8 @@
   },
   {
     "id": 300,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS02",
     "location": "Nagaon",
     "type": "RTO",
@@ -2101,6 +2701,8 @@
   },
   {
     "id": 301,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS03",
     "location": "Jorhat",
     "type": "RTO",
@@ -2108,6 +2710,8 @@
   },
   {
     "id": 302,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS04",
     "location": "Sibsagar",
     "type": "RTO",
@@ -2115,6 +2719,8 @@
   },
   {
     "id": 303,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS05",
     "location": "Golaghat",
     "type": "RTO",
@@ -2122,6 +2728,8 @@
   },
   {
     "id": 304,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS06",
     "location": "Dibrugarh",
     "type": "RTO",
@@ -2129,6 +2737,8 @@
   },
   {
     "id": 305,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS07",
     "location": "Lakhimpur district",
     "type": "RTO",
@@ -2136,6 +2746,8 @@
   },
   {
     "id": 306,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS08",
     "location": "Dima Hasao",
     "type": "RTO",
@@ -2143,6 +2755,8 @@
   },
   {
     "id": 307,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS09",
     "location": "Karbi Anglong",
     "type": "RTO",
@@ -2150,6 +2764,8 @@
   },
   {
     "id": 308,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS10",
     "location": "Karimganj",
     "type": "RTO",
@@ -2157,6 +2773,8 @@
   },
   {
     "id": 309,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS11",
     "location": "Cachar",
     "type": "RTO",
@@ -2164,6 +2782,8 @@
   },
   {
     "id": 310,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS12",
     "location": "Sonitpur",
     "type": "RTO",
@@ -2171,6 +2791,8 @@
   },
   {
     "id": 311,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS13",
     "location": "Darrang",
     "type": "RTO",
@@ -2178,6 +2800,8 @@
   },
   {
     "id": 312,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS14",
     "location": "Nalbari",
     "type": "RTO",
@@ -2185,6 +2809,8 @@
   },
   {
     "id": 313,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS15",
     "location": "Barpeta",
     "type": "RTO",
@@ -2192,6 +2818,8 @@
   },
   {
     "id": 314,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS16",
     "location": "Kokrajhar",
     "type": "RTO",
@@ -2199,6 +2827,8 @@
   },
   {
     "id": 315,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS17",
     "location": "Dhubri",
     "type": "RTO",
@@ -2206,6 +2836,8 @@
   },
   {
     "id": 316,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS18",
     "location": "Goalpara",
     "type": "RTO",
@@ -2213,6 +2845,8 @@
   },
   {
     "id": 317,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS19",
     "location": "Bongaigaon",
     "type": "RTO",
@@ -2220,6 +2854,8 @@
   },
   {
     "id": 318,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS21",
     "location": "Marigaon",
     "type": "RTO",
@@ -2227,6 +2863,8 @@
   },
   {
     "id": 319,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS22",
     "location": "Dhemaji",
     "type": "RTO",
@@ -2234,6 +2872,8 @@
   },
   {
     "id": 320,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS23",
     "location": "Tinsukia",
     "type": "RTO",
@@ -2241,6 +2881,8 @@
   },
   {
     "id": 321,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS24",
     "location": "Hailakandi",
     "type": "RTO",
@@ -2248,6 +2890,8 @@
   },
   {
     "id": 322,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS25",
     "location": "Guwahati no longer used",
     "type": "RTO",
@@ -2255,6 +2899,8 @@
   },
   {
     "id": 323,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS27",
     "location": "Udalguri",
     "type": "RTO",
@@ -2262,6 +2908,8 @@
   },
   {
     "id": 324,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS20",
     "location": "Assam State Transport Corporation (ASTC)",
     "type": "RTO",
@@ -2269,6 +2917,8 @@
   },
   {
     "id": 325,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS30",
     "location": "Assam Police vehicles",
     "type": "RTO",
@@ -2276,6 +2926,8 @@
   },
   {
     "id": 326,
+    "s_code": "AS",
+    "state": "Assam",
     "code": "AS31",
     "location": "Assam Police",
     "type": "RTO",
@@ -2283,6 +2935,8 @@
   },
   {
     "id": 327,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR01",
     "location": "Patna",
     "type": "RTO",
@@ -2290,6 +2944,8 @@
   },
   {
     "id": 328,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR02",
     "location": "Gaya",
     "type": "RTO",
@@ -2297,6 +2953,8 @@
   },
   {
     "id": 329,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR03",
     "location": "Bhojpur",
     "type": "RTO",
@@ -2304,6 +2962,8 @@
   },
   {
     "id": 330,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR04",
     "location": "Chapra",
     "type": "RTO",
@@ -2311,6 +2971,8 @@
   },
   {
     "id": 331,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR05",
     "location": "Motihari",
     "type": "RTO",
@@ -2318,6 +2980,8 @@
   },
   {
     "id": 332,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR06",
     "location": "Muzaffarpur",
     "type": "RTO",
@@ -2325,6 +2989,8 @@
   },
   {
     "id": 333,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR07",
     "location": "Darbhanga",
     "type": "RTO",
@@ -2332,6 +2998,8 @@
   },
   {
     "id": 334,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR08",
     "location": "Munger",
     "type": "RTO",
@@ -2339,6 +3007,8 @@
   },
   {
     "id": 335,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR09",
     "location": "Begusarai",
     "type": "RTO",
@@ -2346,6 +3016,8 @@
   },
   {
     "id": 336,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR10",
     "location": "Bhagalpur",
     "type": "RTO",
@@ -2353,6 +3025,8 @@
   },
   {
     "id": 337,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR11",
     "location": "Purnea",
     "type": "RTO",
@@ -2360,6 +3034,8 @@
   },
   {
     "id": 338,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR19",
     "location": "Saharsa",
     "type": "RTO",
@@ -2367,6 +3043,8 @@
   },
   {
     "id": 339,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR21",
     "location": "Nalanda",
     "type": "RTO",
@@ -2374,6 +3052,8 @@
   },
   {
     "id": 340,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR22",
     "location": "Bettiah",
     "type": "RTO",
@@ -2381,6 +3061,8 @@
   },
   {
     "id": 341,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR24",
     "location": "Dehri",
     "type": "RTO",
@@ -2388,6 +3070,8 @@
   },
   {
     "id": 342,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR25",
     "location": "Jehanabad",
     "type": "RTO",
@@ -2395,6 +3079,8 @@
   },
   {
     "id": 343,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR26",
     "location": "Aurangabad",
     "type": "RTO",
@@ -2402,6 +3088,8 @@
   },
   {
     "id": 344,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR27",
     "location": "Nawada",
     "type": "RTO",
@@ -2409,6 +3097,8 @@
   },
   {
     "id": 345,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR28",
     "location": "Gopalganj",
     "type": "RTO",
@@ -2416,6 +3106,8 @@
   },
   {
     "id": 346,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR29",
     "location": "Siwan",
     "type": "RTO",
@@ -2423,6 +3115,8 @@
   },
   {
     "id": 347,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR30",
     "location": "Sitamarhi",
     "type": "RTO",
@@ -2430,6 +3124,8 @@
   },
   {
     "id": 348,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR31",
     "location": "Vaishali district",
     "type": "RTO",
@@ -2437,6 +3133,8 @@
   },
   {
     "id": 349,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR32",
     "location": "Madhubani",
     "type": "RTO",
@@ -2444,6 +3142,8 @@
   },
   {
     "id": 350,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR30",
     "location": "Samastipur",
     "type": "RTO",
@@ -2451,6 +3151,8 @@
   },
   {
     "id": 351,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR34",
     "location": "Khagaria",
     "type": "RTO",
@@ -2458,6 +3160,8 @@
   },
   {
     "id": 352,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR37",
     "location": "Kishanganj",
     "type": "RTO",
@@ -2465,6 +3169,8 @@
   },
   {
     "id": 353,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR38",
     "location": "Araria",
     "type": "RTO",
@@ -2472,6 +3178,8 @@
   },
   {
     "id": 354,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR39",
     "location": "Katihar",
     "type": "RTO",
@@ -2479,6 +3187,8 @@
   },
   {
     "id": 355,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR43",
     "location": "Madhepura",
     "type": "RTO",
@@ -2486,6 +3196,8 @@
   },
   {
     "id": 356,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR44",
     "location": "Buxar",
     "type": "RTO",
@@ -2493,6 +3205,8 @@
   },
   {
     "id": 357,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR45",
     "location": "Bhabua",
     "type": "RTO",
@@ -2500,6 +3214,8 @@
   },
   {
     "id": 358,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR46",
     "location": "Jamui",
     "type": "RTO",
@@ -2507,6 +3223,8 @@
   },
   {
     "id": 359,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR50",
     "location": "Supaul",
     "type": "RTO",
@@ -2514,6 +3232,8 @@
   },
   {
     "id": 360,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR51",
     "location": "Banka",
     "type": "RTO",
@@ -2521,6 +3241,8 @@
   },
   {
     "id": 361,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR52",
     "location": "Sheikhpura",
     "type": "RTO",
@@ -2528,6 +3250,8 @@
   },
   {
     "id": 362,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR53",
     "location": "Lakhisara",
     "type": "RTO",
@@ -2535,6 +3259,8 @@
   },
   {
     "id": 363,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR55",
     "location": "Sheohar",
     "type": "RTO",
@@ -2542,6 +3268,8 @@
   },
   {
     "id": 364,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR56",
     "location": "Arwal",
     "type": "RTO",
@@ -2549,6 +3277,8 @@
   },
   {
     "id": 365,
+    "s_code": "BR",
+    "state": "Bihar",
     "code": "BR57",
     "location": "Rohtas",
     "type": "RTO",
@@ -2556,6 +3286,8 @@
   },
   {
     "id": 366,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA01",
     "location": "Panaji (North Goa district)",
     "type": "RTO",
@@ -2563,6 +3295,8 @@
   },
   {
     "id": 367,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA02",
     "location": "Margao (South Goa district)",
     "type": "RTO",
@@ -2570,6 +3304,8 @@
   },
   {
     "id": 368,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA03",
     "location": "Mapusa",
     "type": "RTO",
@@ -2577,6 +3313,8 @@
   },
   {
     "id": 369,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA04",
     "location": "Bicholim",
     "type": "RTO",
@@ -2584,6 +3322,8 @@
   },
   {
     "id": 370,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA05",
     "location": "Ponda",
     "type": "RTO",
@@ -2591,6 +3331,8 @@
   },
   {
     "id": 371,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA06",
     "location": "Vasco",
     "type": "RTO",
@@ -2598,6 +3340,8 @@
   },
   {
     "id": 372,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA07",
     "location": "Panaji",
     "type": "RTO",
@@ -2605,6 +3349,8 @@
   },
   {
     "id": 373,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA08",
     "location": "Margao",
     "type": "RTO",
@@ -2612,6 +3358,8 @@
   },
   {
     "id": 374,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA09",
     "location": "Quepem",
     "type": "RTO",
@@ -2619,6 +3367,8 @@
   },
   {
     "id": 375,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA10",
     "location": "Canacona",
     "type": "RTO",
@@ -2626,6 +3376,8 @@
   },
   {
     "id": 376,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA11",
     "location": "Pernem",
     "type": "RTO",
@@ -2633,6 +3385,8 @@
   },
   {
     "id": 377,
+    "s_code": "GA",
+    "state": "Goa",
     "code": "GA12",
     "location": "Pernem",
     "type": "RTO",
@@ -2640,6 +3394,8 @@
   },
   {
     "id": 378,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH01",
     "location": "Ranchi",
     "type": "RTO",
@@ -2647,6 +3403,8 @@
   },
   {
     "id": 379,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH02",
     "location": "Hazaribagh",
     "type": "RTO",
@@ -2654,6 +3412,8 @@
   },
   {
     "id": 380,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH03",
     "location": "Daltonganj",
     "type": "RTO",
@@ -2661,6 +3421,8 @@
   },
   {
     "id": 381,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH04",
     "location": "Dumka",
     "type": "RTO",
@@ -2668,6 +3430,8 @@
   },
   {
     "id": 382,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH05",
     "location": "Jamshedpur",
     "type": "RTO",
@@ -2675,6 +3439,8 @@
   },
   {
     "id": 383,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH06",
     "location": "Chaibasa",
     "type": "RTO",
@@ -2682,6 +3448,8 @@
   },
   {
     "id": 384,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH07",
     "location": "Gumla",
     "type": "RTO",
@@ -2689,6 +3457,8 @@
   },
   {
     "id": 385,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH08",
     "location": "Lohardaga",
     "type": "RTO",
@@ -2696,6 +3466,8 @@
   },
   {
     "id": 386,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH09",
     "location": "Bokaro Steel City",
     "type": "RTO",
@@ -2703,6 +3475,8 @@
   },
   {
     "id": 387,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH10",
     "location": "Dhanbad",
     "type": "RTO",
@@ -2710,6 +3484,8 @@
   },
   {
     "id": 388,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH11",
     "location": "Giridih",
     "type": "RTO",
@@ -2717,6 +3493,8 @@
   },
   {
     "id": 389,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH12",
     "location": "Koderma",
     "type": "RTO",
@@ -2724,6 +3502,8 @@
   },
   {
     "id": 390,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH13",
     "location": "Chatra",
     "type": "RTO",
@@ -2731,6 +3511,8 @@
   },
   {
     "id": 391,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH14",
     "location": "Garhwa",
     "type": "RTO",
@@ -2738,6 +3520,8 @@
   },
   {
     "id": 392,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH15",
     "location": "Deoghar",
     "type": "RTO",
@@ -2745,6 +3529,8 @@
   },
   {
     "id": 393,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH16",
     "location": "Pakur",
     "type": "RTO",
@@ -2752,6 +3538,8 @@
   },
   {
     "id": 394,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH17",
     "location": "Godda",
     "type": "RTO",
@@ -2759,6 +3547,8 @@
   },
   {
     "id": 395,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH18",
     "location": "Sahibganj",
     "type": "RTO",
@@ -2766,6 +3556,8 @@
   },
   {
     "id": 396,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH19",
     "location": "Latehar",
     "type": "RTO",
@@ -2773,6 +3565,8 @@
   },
   {
     "id": 397,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH20",
     "location": "Simdega",
     "type": "RTO",
@@ -2780,6 +3574,8 @@
   },
   {
     "id": 398,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH21",
     "location": "Jamtara",
     "type": "RTO",
@@ -2787,6 +3583,8 @@
   },
   {
     "id": 399,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH22",
     "location": "Saraikela-Kharsawan",
     "type": "RTO",
@@ -2794,6 +3592,8 @@
   },
   {
     "id": 400,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH23",
     "location": "Khunti",
     "type": "RTO",
@@ -2801,6 +3601,8 @@
   },
   {
     "id": 401,
+    "s_code": "JH",
+    "state": "Jharkhand",
     "code": "JH24",
     "location": "Ramgarh",
     "type": "RTO",
@@ -2808,6 +3610,8 @@
   },
   {
     "id": 402,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS01",
     "location": "Adilabad",
     "type": "DTC",
@@ -2815,6 +3619,8 @@
   },
   {
     "id": 403,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS02",
     "location": "Karimnagar",
     "type": "DTC",
@@ -2822,6 +3628,8 @@
   },
   {
     "id": 404,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS03",
     "location": "Warangal",
     "type": "DTC",
@@ -2829,6 +3637,8 @@
   },
   {
     "id": 405,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS04",
     "location": "Khammam",
     "type": "DTC",
@@ -2836,6 +3646,8 @@
   },
   {
     "id": 406,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS05",
     "location": "Nalgonda",
     "type": "DTC",
@@ -2843,6 +3655,8 @@
   },
   {
     "id": 407,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS06",
     "location": "Mahbubnagar",
     "type": "DTC",
@@ -2850,6 +3664,8 @@
   },
   {
     "id": 408,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS07",
     "location": "Attapur",
     "type": "DTC",
@@ -2857,6 +3673,8 @@
   },
   {
     "id": 409,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS08",
     "location": "Medchal",
     "type": "DTC",
@@ -2864,6 +3682,8 @@
   },
   {
     "id": 410,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS09",
     "location": "Khairtabad",
     "type": "JTC",
@@ -2871,6 +3691,8 @@
   },
   {
     "id": 411,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS10",
     "location": "Secunderabad",
     "type": "RTO",
@@ -2878,6 +3700,8 @@
   },
   {
     "id": 412,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS11",
     "location": "Malakpet",
     "type": "RTO",
@@ -2885,6 +3709,8 @@
   },
   {
     "id": 413,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS12",
     "location": "Kishanbagh",
     "type": "RTO",
@@ -2892,6 +3718,8 @@
   },
   {
     "id": 414,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS13",
     "location": "Tolichowki",
     "type": "RTO",
@@ -2899,6 +3727,8 @@
   },
   {
     "id": 415,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS14",
     "location": "Hyderabad",
     "type": "RTO",
@@ -2906,6 +3736,8 @@
   },
   {
     "id": 416,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS15",
     "location": "Sangareddy",
     "type": "DTC",
@@ -2913,6 +3745,8 @@
   },
   {
     "id": 417,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS16",
     "location": "Nizamabad",
     "type": "DTC",
@@ -2920,6 +3754,8 @@
   },
   {
     "id": 418,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS17",
     "location": "Kamareddy",
     "type": "DTC",
@@ -2927,6 +3763,8 @@
   },
   {
     "id": 419,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS18",
     "location": "Nirmal",
     "type": "DTC",
@@ -2934,6 +3772,8 @@
   },
   {
     "id": 420,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS19",
     "location": "Mancherial",
     "type": "DTC",
@@ -2941,6 +3781,8 @@
   },
   {
     "id": 421,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS20",
     "location": "Asifabad",
     "type": "DTC",
@@ -2948,6 +3790,8 @@
   },
   {
     "id": 422,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS21",
     "location": "Jagtial",
     "type": "DTC",
@@ -2955,6 +3799,8 @@
   },
   {
     "id": 423,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS22",
     "location": "Peddapalli",
     "type": "DTC",
@@ -2962,6 +3808,8 @@
   },
   {
     "id": 424,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS23",
     "location": "Sircilla",
     "type": "DTC",
@@ -2969,6 +3817,8 @@
   },
   {
     "id": 425,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS24",
     "location": "Warangal",
     "type": "DTC",
@@ -2976,6 +3826,8 @@
   },
   {
     "id": 426,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS25",
     "location": "Bhupalpalle",
     "type": "DTC",
@@ -2983,6 +3835,8 @@
   },
   {
     "id": 427,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS26",
     "location": "Mahabubabad",
     "type": "DTC",
@@ -2990,6 +3844,8 @@
   },
   {
     "id": 428,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS27",
     "location": "Jangaon",
     "type": "DTC",
@@ -2997,6 +3853,8 @@
   },
   {
     "id": 429,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS28",
     "location": "Kothagudem",
     "type": "DTC",
@@ -3004,6 +3862,8 @@
   },
   {
     "id": 430,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS29",
     "location": "Suryapet",
     "type": "DTC",
@@ -3011,6 +3871,8 @@
   },
   {
     "id": 431,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS30",
     "location": "Bhongir",
     "type": "DTC",
@@ -3018,6 +3880,8 @@
   },
   {
     "id": 432,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS31",
     "location": "Nagarkurnool",
     "type": "DTC",
@@ -3025,6 +3889,8 @@
   },
   {
     "id": 433,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS32",
     "location": "Wanaparthy",
     "type": "DTC",
@@ -3032,6 +3898,8 @@
   },
   {
     "id": 434,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS33",
     "location": "Gadwal",
     "type": "DTC",
@@ -3039,6 +3907,8 @@
   },
   {
     "id": 435,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS34",
     "location": "Vikarabad",
     "type": "DTC",
@@ -3046,6 +3916,8 @@
   },
   {
     "id": 436,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS35",
     "location": "Medak",
     "type": "DTC",
@@ -3053,6 +3925,8 @@
   },
   {
     "id": 437,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS36",
     "location": "Siddipet",
     "type": "DTC",
@@ -3060,6 +3934,8 @@
   },
   {
     "id": 438,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS37",
     "location": "Mulugu",
     "type": "DTC",
@@ -3067,6 +3943,8 @@
   },
   {
     "id": 439,
+    "s_code": "TS",
+    "state": "Telangana",
     "code": "TS38",
     "location": "Narayanpet",
     "type": "DTC",
@@ -3074,6 +3952,8 @@
   },
   {
     "id": 440,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ01",
     "location": "Ajmer",
     "type": "RTO",
@@ -3081,6 +3961,8 @@
   },
   {
     "id": 441,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ02",
     "location": "Alwar",
     "type": "RTO",
@@ -3088,6 +3970,8 @@
   },
   {
     "id": 442,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ03",
     "location": "Banswara",
     "type": "RTO",
@@ -3095,6 +3979,8 @@
   },
   {
     "id": 443,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ04",
     "location": "Barmer",
     "type": "RTO",
@@ -3102,6 +3988,8 @@
   },
   {
     "id": 444,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ05",
     "location": "Bharatpur",
     "type": "RTO",
@@ -3109,6 +3997,8 @@
   },
   {
     "id": 445,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ06",
     "location": "Bhilwara",
     "type": "RTO",
@@ -3116,6 +4006,8 @@
   },
   {
     "id": 446,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ07",
     "location": "Bikaner",
     "type": "RTO",
@@ -3123,6 +4015,8 @@
   },
   {
     "id": 447,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ08",
     "location": "Bundi",
     "type": "RTO",
@@ -3130,6 +4024,8 @@
   },
   {
     "id": 448,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ09",
     "location": "Chittaurgarh",
     "type": "RTO",
@@ -3137,6 +4033,8 @@
   },
   {
     "id": 449,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ10",
     "location": "Churu",
     "type": "RTO",
@@ -3144,6 +4042,8 @@
   },
   {
     "id": 450,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ11",
     "location": "Dholpur",
     "type": "RTO",
@@ -3151,6 +4051,8 @@
   },
   {
     "id": 451,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ12",
     "location": "Dungarpur",
     "type": "RTO",
@@ -3158,6 +4060,8 @@
   },
   {
     "id": 452,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ13",
     "location": "Sri Ganganagar",
     "type": "RTO",
@@ -3165,6 +4069,8 @@
   },
   {
     "id": 453,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ14",
     "location": "Jaipur",
     "type": "RTO",
@@ -3172,6 +4078,8 @@
   },
   {
     "id": 454,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ15",
     "location": "Jaisalmer",
     "type": "RTO",
@@ -3179,6 +4087,8 @@
   },
   {
     "id": 455,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ16",
     "location": "Jalore",
     "type": "RTO",
@@ -3186,6 +4096,8 @@
   },
   {
     "id": 456,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ17",
     "location": "Jhalawar",
     "type": "RTO",
@@ -3193,6 +4105,8 @@
   },
   {
     "id": 457,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ18",
     "location": "Jhunjhunu",
     "type": "RTO",
@@ -3200,6 +4114,8 @@
   },
   {
     "id": 458,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ19",
     "location": "Jodhpur",
     "type": "RTO",
@@ -3207,6 +4123,8 @@
   },
   {
     "id": 459,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ20",
     "location": "Kota",
     "type": "RTO",
@@ -3214,6 +4132,8 @@
   },
   {
     "id": 460,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ21",
     "location": "Nagaur",
     "type": "RTO",
@@ -3221,6 +4141,8 @@
   },
   {
     "id": 461,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ22",
     "location": "Pali",
     "type": "RTO",
@@ -3228,6 +4150,8 @@
   },
   {
     "id": 462,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ23",
     "location": "Sikar",
     "type": "RTO",
@@ -3235,6 +4159,8 @@
   },
   {
     "id": 463,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ24",
     "location": "Sirohi",
     "type": "RTO",
@@ -3242,6 +4168,8 @@
   },
   {
     "id": 464,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ25",
     "location": "Sawai Madhopur",
     "type": "RTO",
@@ -3249,6 +4177,8 @@
   },
   {
     "id": 465,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ26",
     "location": "Tonk",
     "type": "RTO",
@@ -3256,6 +4186,8 @@
   },
   {
     "id": 466,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ27",
     "location": "Udaipur",
     "type": "RTO",
@@ -3263,6 +4195,8 @@
   },
   {
     "id": 467,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ28",
     "location": "Baran",
     "type": "RTO",
@@ -3270,6 +4204,8 @@
   },
   {
     "id": 468,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ29",
     "location": "Dausa",
     "type": "RTO",
@@ -3277,6 +4213,8 @@
   },
   {
     "id": 469,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ30",
     "location": "Rajsamand",
     "type": "RTO",
@@ -3284,6 +4222,8 @@
   },
   {
     "id": 470,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ31",
     "location": "Hanumangarh",
     "type": "RTO",
@@ -3291,6 +4231,8 @@
   },
   {
     "id": 471,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ32",
     "location": "Kotputli",
     "type": "RTO",
@@ -3298,6 +4240,8 @@
   },
   {
     "id": 472,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ33",
     "location": "Ramganj Mandi, Kota",
     "type": "RTO",
@@ -3305,6 +4249,8 @@
   },
   {
     "id": 473,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ34",
     "location": "Karauli",
     "type": "RTO",
@@ -3312,6 +4258,8 @@
   },
   {
     "id": 474,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ35",
     "location": "Pratapgarh",
     "type": "RTO",
@@ -3319,6 +4267,8 @@
   },
   {
     "id": 475,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ36",
     "location": "Beawar",
     "type": "RTO",
@@ -3326,6 +4276,8 @@
   },
   {
     "id": 476,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ37",
     "location": "Didwana",
     "type": "RTO",
@@ -3333,6 +4285,8 @@
   },
   {
     "id": 477,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ38",
     "location": "Rawatbhata, Kota",
     "type": "RTO",
@@ -3340,6 +4294,8 @@
   },
   {
     "id": 478,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ39",
     "location": "Balotra, Barmer",
     "type": "RTO",
@@ -3347,6 +4303,8 @@
   },
   {
     "id": 479,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ40",
     "location": "Bhiwadi, Alwar",
     "type": "RTO",
@@ -3354,6 +4312,8 @@
   },
   {
     "id": 480,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ41",
     "location": "Chomu, Jaipur",
     "type": "RTO",
@@ -3361,6 +4321,8 @@
   },
   {
     "id": 481,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ42",
     "location": "Kishangarh, Ajmer",
     "type": "RTO",
@@ -3368,6 +4330,8 @@
   },
   {
     "id": 482,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ43",
     "location": "Phalodi, Jodhpur",
     "type": "RTO",
@@ -3375,6 +4339,8 @@
   },
   {
     "id": 483,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ44",
     "location": "Sujangarh, Churu",
     "type": "RTO",
@@ -3382,6 +4348,8 @@
   },
   {
     "id": 484,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ45",
     "location": "Jaipur",
     "type": "RTO",
@@ -3389,6 +4357,8 @@
   },
   {
     "id": 485,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ46",
     "location": "Abu road, Sirohi",
     "type": "RTO",
@@ -3396,6 +4366,8 @@
   },
   {
     "id": 486,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ47",
     "location": "Dudu, Jaipur",
     "type": "RTO",
@@ -3403,6 +4375,8 @@
   },
   {
     "id": 487,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ48",
     "location": "Kekri, Ajmer",
     "type": "RTO",
@@ -3410,6 +4384,8 @@
   },
   {
     "id": 488,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ49",
     "location": "Nohar, Hanumangarh",
     "type": "RTO",
@@ -3417,6 +4393,8 @@
   },
   {
     "id": 489,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ51",
     "location": "Nokha, Bikaner",
     "type": "RTO",
@@ -3424,6 +4402,8 @@
   },
   {
     "id": 490,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ52",
     "location": "Shahpura, Bhilwara",
     "type": "RTO",
@@ -3431,6 +4411,8 @@
   },
   {
     "id": 491,
+    "s_code": "RJ",
+    "state": "Rajasthan",
     "code": "RJ53",
     "location": "Shahpura, Jaipur",
     "type": "RTO",
@@ -3438,6 +4420,8 @@
   },
   {
     "id": 492,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB01",
     "location": "Chandigarh",
     "type": "RTO",
@@ -3445,6 +4429,8 @@
   },
   {
     "id": 493,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB02",
     "location": "Amritsar",
     "type": "RTO",
@@ -3452,6 +4438,8 @@
   },
   {
     "id": 494,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB03",
     "location": "Bathinda",
     "type": "RTO",
@@ -3459,6 +4447,8 @@
   },
   {
     "id": 495,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB04",
     "location": "Faridkot",
     "type": "RTO",
@@ -3466,6 +4456,8 @@
   },
   {
     "id": 496,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB05",
     "location": "Faridkot",
     "type": "RTO",
@@ -3473,6 +4465,8 @@
   },
   {
     "id": 497,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB06",
     "location": "Gurdaspur",
     "type": "RTO",
@@ -3480,6 +4474,8 @@
   },
   {
     "id": 498,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB07",
     "location": "Hoshiarpur",
     "type": "RTO",
@@ -3487,6 +4483,8 @@
   },
   {
     "id": 499,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB08",
     "location": "Jalandhar",
     "type": "RTO",
@@ -3494,6 +4492,8 @@
   },
   {
     "id": 500,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB09",
     "location": "Kapurthala",
     "type": "RTO",
@@ -3501,6 +4501,8 @@
   },
   {
     "id": 501,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB10",
     "location": "Ludhiana",
     "type": "RTO",
@@ -3508,6 +4510,8 @@
   },
   {
     "id": 502,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB11",
     "location": "Patiala",
     "type": "RTO",
@@ -3515,6 +4519,8 @@
   },
   {
     "id": 503,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB12",
     "location": "Ropar",
     "type": "RTO",
@@ -3522,6 +4528,8 @@
   },
   {
     "id": 504,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB13",
     "location": "Sangrur",
     "type": "RTO",
@@ -3529,6 +4537,8 @@
   },
   {
     "id": 505,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB14",
     "location": "Ajnala",
     "type": "RTO",
@@ -3536,6 +4546,8 @@
   },
   {
     "id": 506,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB15",
     "location": "Abohar",
     "type": "RTO",
@@ -3543,6 +4555,8 @@
   },
   {
     "id": 507,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB16",
     "location": "Anandpur Sahib",
     "type": "RTO",
@@ -3550,6 +4564,8 @@
   },
   {
     "id": 508,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB17",
     "location": "Baba Bakala",
     "type": "RTO",
@@ -3557,6 +4573,8 @@
   },
   {
     "id": 509,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB18",
     "location": "Batala",
     "type": "RTO",
@@ -3564,6 +4582,8 @@
   },
   {
     "id": 510,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB19",
     "location": "Barnala",
     "type": "RTO",
@@ -3571,6 +4591,8 @@
   },
   {
     "id": 511,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB20",
     "location": "Balachaur",
     "type": "RTO",
@@ -3578,6 +4600,8 @@
   },
   {
     "id": 512,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB21",
     "location": "Dasuya",
     "type": "RTO",
@@ -3585,6 +4609,8 @@
   },
   {
     "id": 513,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB22",
     "location": "Fazilka",
     "type": "RTO",
@@ -3592,6 +4618,8 @@
   },
   {
     "id": 514,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB23",
     "location": "Fatehgarh Sahib",
     "type": "RTO",
@@ -3599,6 +4627,8 @@
   },
   {
     "id": 515,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB24",
     "location": "Garhshankar",
     "type": "RTO",
@@ -3606,6 +4636,8 @@
   },
   {
     "id": 516,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB25",
     "location": "Jagraon",
     "type": "RTO",
@@ -3613,6 +4645,8 @@
   },
   {
     "id": 517,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB26",
     "location": "Khanna",
     "type": "RTO",
@@ -3620,6 +4654,8 @@
   },
   {
     "id": 518,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB27",
     "location": "Kharar",
     "type": "RTO",
@@ -3627,6 +4663,8 @@
   },
   {
     "id": 519,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB28",
     "location": "Malerkotla",
     "type": "RTO",
@@ -3634,6 +4672,8 @@
   },
   {
     "id": 520,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB29",
     "location": "Moga",
     "type": "RTO",
@@ -3641,6 +4681,8 @@
   },
   {
     "id": 521,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB30",
     "location": "Muktsar",
     "type": "RTO",
@@ -3648,6 +4690,8 @@
   },
   {
     "id": 522,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB31",
     "location": "Mansa",
     "type": "RTO",
@@ -3655,6 +4699,8 @@
   },
   {
     "id": 523,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB32",
     "location": "Nawanshahr",
     "type": "RTO",
@@ -3662,6 +4708,8 @@
   },
   {
     "id": 524,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB33",
     "location": "Nakodar",
     "type": "RTO",
@@ -3669,6 +4717,8 @@
   },
   {
     "id": 525,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB34",
     "location": "Nabha",
     "type": "RTO",
@@ -3676,6 +4726,8 @@
   },
   {
     "id": 526,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB35",
     "location": "Pathankot",
     "type": "RTO",
@@ -3683,6 +4735,8 @@
   },
   {
     "id": 527,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB36",
     "location": "Phagwara",
     "type": "RTO",
@@ -3690,6 +4744,8 @@
   },
   {
     "id": 528,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB37",
     "location": "Phillaur",
     "type": "RTO",
@@ -3697,6 +4753,8 @@
   },
   {
     "id": 529,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB38",
     "location": "Patti",
     "type": "RTO",
@@ -3704,6 +4762,8 @@
   },
   {
     "id": 530,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB39",
     "location": "Rajpura",
     "type": "RTO",
@@ -3711,6 +4771,8 @@
   },
   {
     "id": 531,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB40",
     "location": "Rampura Phul",
     "type": "RTO",
@@ -3718,6 +4780,8 @@
   },
   {
     "id": 532,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB41",
     "location": "Sultanpur Lodhi",
     "type": "RTO",
@@ -3725,6 +4789,8 @@
   },
   {
     "id": 533,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB42",
     "location": "Samana",
     "type": "RTO",
@@ -3732,6 +4798,8 @@
   },
   {
     "id": 534,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB43",
     "location": "Samrala",
     "type": "RTO",
@@ -3739,6 +4807,8 @@
   },
   {
     "id": 535,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB44",
     "location": "Sunam",
     "type": "RTO",
@@ -3746,6 +4816,8 @@
   },
   {
     "id": 536,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB45",
     "location": "Talwandi Sabo",
     "type": "RTO",
@@ -3753,6 +4825,8 @@
   },
   {
     "id": 537,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB46",
     "location": "Tarn Taran",
     "type": "RTO",
@@ -3760,6 +4834,8 @@
   },
   {
     "id": 538,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB47",
     "location": "Zira",
     "type": "RTO",
@@ -3767,6 +4843,8 @@
   },
   {
     "id": 539,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB48",
     "location": "Amloh",
     "type": "RTO",
@@ -3774,6 +4852,8 @@
   },
   {
     "id": 540,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB49",
     "location": "Khamano",
     "type": "RTO",
@@ -3781,6 +4861,8 @@
   },
   {
     "id": 541,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB50",
     "location": "Budhlada",
     "type": "RTO",
@@ -3788,6 +4870,8 @@
   },
   {
     "id": 542,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB51",
     "location": "Jhunir / Sardulgarh",
     "type": "RTO",
@@ -3795,6 +4879,8 @@
   },
   {
     "id": 543,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB52",
     "location": "Bassi Pathana",
     "type": "RTO",
@@ -3802,6 +4888,8 @@
   },
   {
     "id": 544,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB53",
     "location": "Malout",
     "type": "RTO",
@@ -3809,6 +4897,8 @@
   },
   {
     "id": 545,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB54",
     "location": "Mukerian",
     "type": "RTO",
@@ -3816,6 +4906,8 @@
   },
   {
     "id": 546,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB55",
     "location": "Payal",
     "type": "RTO",
@@ -3823,6 +4915,8 @@
   },
   {
     "id": 547,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB56",
     "location": "Raikot",
     "type": "RTO",
@@ -3830,6 +4924,8 @@
   },
   {
     "id": 548,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB57",
     "location": "Bhulath",
     "type": "RTO",
@@ -3837,6 +4933,8 @@
   },
   {
     "id": 549,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB58",
     "location": "Dera Baba Nanak",
     "type": "RTO",
@@ -3844,6 +4942,8 @@
   },
   {
     "id": 550,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB59",
     "location": "Dhuri",
     "type": "RTO",
@@ -3851,6 +4951,8 @@
   },
   {
     "id": 551,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB60",
     "location": "Gidderbaha",
     "type": "RTO",
@@ -3858,6 +4960,8 @@
   },
   {
     "id": 552,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB61",
     "location": "Jalalabad",
     "type": "RTO",
@@ -3865,6 +4969,8 @@
   },
   {
     "id": 553,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB62",
     "location": "Jaitu",
     "type": "RTO",
@@ -3872,6 +4978,8 @@
   },
   {
     "id": 554,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB63",
     "location": "Khadoor Sahib",
     "type": "RTO",
@@ -3879,6 +4987,8 @@
   },
   {
     "id": 555,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB64",
     "location": "Moonak",
     "type": "RTO",
@@ -3886,6 +4996,8 @@
   },
   {
     "id": 556,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB65",
     "location": "Mohali",
     "type": "RTO",
@@ -3893,6 +5005,8 @@
   },
   {
     "id": 557,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB66",
     "location": "Nihal Singh Wala",
     "type": "RTO",
@@ -3900,6 +5014,8 @@
   },
   {
     "id": 558,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB67",
     "location": "Shahkot",
     "type": "RTO",
@@ -3907,6 +5023,8 @@
   },
   {
     "id": 559,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB68",
     "location": "Dhar Kalan",
     "type": "RTO",
@@ -3914,6 +5032,8 @@
   },
   {
     "id": 560,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB69",
     "location": "Bagha Purana",
     "type": "RTO",
@@ -3921,6 +5041,8 @@
   },
   {
     "id": 561,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB70",
     "location": "Dera Bassi",
     "type": "RTO",
@@ -3928,6 +5050,8 @@
   },
   {
     "id": 562,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB71",
     "location": "Chamkaur Sahib",
     "type": "RTO",
@@ -3935,6 +5059,8 @@
   },
   {
     "id": 563,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB72",
     "location": "Patran",
     "type": "RTO",
@@ -3942,6 +5068,8 @@
   },
   {
     "id": 564,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB73",
     "location": "Tappa Mandi",
     "type": "RTO",
@@ -3949,6 +5077,8 @@
   },
   {
     "id": 565,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB74",
     "location": "Nangal",
     "type": "RTO",
@@ -3956,6 +5086,8 @@
   },
   {
     "id": 566,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB75",
     "location": "Lehra",
     "type": "RTO",
@@ -3963,6 +5095,8 @@
   },
   {
     "id": 567,
+    "s_code": "PB",
+    "state": "Punjab",
     "code": "PB76",
     "location": "Ahmedgarh",
     "type": "RTO",
@@ -3970,6 +5104,8 @@
   },
   {
     "id": 568,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP01",
     "location": "Adilabad – Mancherial / Nirmala",
     "type": "RTO",
@@ -3977,6 +5113,8 @@
   },
   {
     "id": 569,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP02",
     "location": "Anantapur – Hindupur",
     "type": "RTO",
@@ -3984,6 +5122,8 @@
   },
   {
     "id": 570,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP03",
     "location": "Chittoor – Tirupati / Madanapalle",
     "type": "RTO",
@@ -3991,6 +5131,8 @@
   },
   {
     "id": 571,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP04",
     "location": "Kadapa – Proddatur",
     "type": "RTO",
@@ -3998,6 +5140,8 @@
   },
   {
     "id": 572,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP05",
     "location": "Kakinada / Amalapuram / Rajahmundry",
     "type": "RTO",
@@ -4005,6 +5149,8 @@
   },
   {
     "id": 573,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP07",
     "location": "Guntur – Piduguralla / Narasaraopet / Repalle",
     "type": "RTO",
@@ -4012,6 +5158,8 @@
   },
   {
     "id": 574,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP09",
     "location": "Hyderabad Central (Khairtabad)",
     "type": "RTO",
@@ -4019,6 +5167,8 @@
   },
   {
     "id": 575,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP10",
     "location": "Hyderabad North (Secunderabad)",
     "type": "RTO",
@@ -4026,6 +5176,8 @@
   },
   {
     "id": 576,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP11",
     "location": "Hyderabad East (Malakpet)",
     "type": "RTO",
@@ -4033,6 +5185,8 @@
   },
   {
     "id": 577,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP12",
     "location": "Hyderabad South (Kisanbagh)",
     "type": "RTO",
@@ -4040,6 +5194,8 @@
   },
   {
     "id": 578,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP13",
     "location": "Hyderabad West (Mehdipatnam)",
     "type": "RTO",
@@ -4047,6 +5203,8 @@
   },
   {
     "id": 579,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP15",
     "location": "Karimnagar – Jagatai / Peddapalli",
     "type": "RTO",
@@ -4054,6 +5212,8 @@
   },
   {
     "id": 580,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP16",
     "location": "Vijayawada / Gudivada / Machilipatnam / Nandigama / Nuzvid",
     "type": "RTO",
@@ -4061,6 +5221,8 @@
   },
   {
     "id": 581,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP20",
     "location": "Khammam – Kothagudem / Sathupally / Yellandu",
     "type": "RTO",
@@ -4068,6 +5230,8 @@
   },
   {
     "id": 582,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP21",
     "location": "Kurnool – Adoni / Nondual",
     "type": "RTO",
@@ -4075,6 +5239,8 @@
   },
   {
     "id": 583,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP22",
     "location": "Mahbubnagar – Pebbair / Gadwal",
     "type": "RTO",
@@ -4082,6 +5248,8 @@
   },
   {
     "id": 584,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP23",
     "location": "Medak – Sangareddy / Siddipet / Patancheru",
     "type": "RTO",
@@ -4089,6 +5257,8 @@
   },
   {
     "id": 585,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP24",
     "location": "Nalgonda – Suryapet / Miryalaguda / Bhongir / Bibinagar",
     "type": "RTO",
@@ -4096,6 +5266,8 @@
   },
   {
     "id": 586,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP25",
     "location": "Nizamabad – Kamareddy",
     "type": "RTO",
@@ -4103,6 +5275,8 @@
   },
   {
     "id": 587,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP26",
     "location": "Nellore – Kavala / Gudur / Sullurpeta / Naidupet",
     "type": "RTO",
@@ -4110,6 +5284,8 @@
   },
   {
     "id": 588,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP27",
     "location": "Angola – Chirala / Mirzapur",
     "type": "RTO",
@@ -4117,6 +5293,8 @@
   },
   {
     "id": 589,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP28",
     "location": "Athpur / Kukatpally / Medical",
     "type": "RTO",
@@ -4124,6 +5302,8 @@
   },
   {
     "id": 590,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP29",
     "location": "Uppal Kalan / Ibrahimpatnam",
     "type": "RTO",
@@ -4131,6 +5311,8 @@
   },
   {
     "id": 591,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP30",
     "location": "Srikakulam -Tekkali / Palasa / Sopita / Ichchapuram / Kavita",
     "type": "RTO",
@@ -4138,6 +5320,8 @@
   },
   {
     "id": 592,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP31",
     "location": "Visakhapatnam – Gajuwaka / Anakapalli",
     "type": "RTO",
@@ -4145,6 +5329,8 @@
   },
   {
     "id": 593,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP35",
     "location": "Vizianagaram",
     "type": "RTO",
@@ -4152,6 +5338,8 @@
   },
   {
     "id": 594,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP36",
     "location": "Warangal – Jalgaon / Mahabubabad",
     "type": "RTO",
@@ -4159,6 +5347,8 @@
   },
   {
     "id": 595,
+    "s_code": "AP",
+    "state": "Andhra Pradesh",
     "code": "AP37",
     "location": "Uluru / Jangareddygudem / Korver / Tadepalligudem / Tanuki /Bhimavaram / Palakollu / Chintalapudi",
     "type": "RTO",
@@ -4166,6 +5356,8 @@
   },
   {
     "id": 596,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG01",
     "location": "Govt of Chhattisgarh",
     "type": "-",
@@ -4173,6 +5365,8 @@
   },
   {
     "id": 597,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG02",
     "location": "Government of Chhattisgarh",
     "type": "-",
@@ -4180,6 +5374,8 @@
   },
   {
     "id": 598,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG03",
     "location": "Chhattisgarh Police",
     "type": "-",
@@ -4187,6 +5383,8 @@
   },
   {
     "id": 599,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG04",
     "location": "Raipur",
     "type": "RTO",
@@ -4194,6 +5392,8 @@
   },
   {
     "id": 600,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG05",
     "location": "Dhamtari",
     "type": "DTO",
@@ -4201,6 +5401,8 @@
   },
   {
     "id": 601,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG06",
     "location": "Mahasamund",
     "type": "DTO",
@@ -4208,6 +5410,8 @@
   },
   {
     "id": 602,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG07",
     "location": "Durg",
     "type": "ARTO",
@@ -4215,6 +5419,8 @@
   },
   {
     "id": 603,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG08",
     "location": "Rajnandgaon",
     "type": "ARTO",
@@ -4222,6 +5428,8 @@
   },
   {
     "id": 604,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG09",
     "location": "Kabirdham",
     "type": "DTO",
@@ -4229,6 +5437,8 @@
   },
   {
     "id": 605,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG10",
     "location": "Bilaspur",
     "type": "RTO",
@@ -4236,6 +5446,8 @@
   },
   {
     "id": 606,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG11",
     "location": "Janjgir–Champa",
     "type": "DTO",
@@ -4243,6 +5455,8 @@
   },
   {
     "id": 607,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG12",
     "location": "Korba",
     "type": "ARTO",
@@ -4250,6 +5464,8 @@
   },
   {
     "id": 608,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG13",
     "location": "Raigarh",
     "type": "ARTO",
@@ -4257,6 +5473,8 @@
   },
   {
     "id": 609,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG14",
     "location": "Jashpur",
     "type": "DTO",
@@ -4264,6 +5482,8 @@
   },
   {
     "id": 610,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG15",
     "location": "Surguja",
     "type": "ARTO",
@@ -4271,6 +5491,8 @@
   },
   {
     "id": 611,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG16",
     "location": "Koriya",
     "type": "DTO",
@@ -4278,6 +5500,8 @@
   },
   {
     "id": 612,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG17",
     "location": "Bastar",
     "type": "RTO",
@@ -4285,6 +5509,8 @@
   },
   {
     "id": 613,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG18",
     "location": "Dantewada",
     "type": "DTO",
@@ -4292,6 +5518,8 @@
   },
   {
     "id": 614,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG19",
     "location": "Kanker",
     "type": "DTO",
@@ -4299,6 +5527,8 @@
   },
   {
     "id": 615,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG20",
     "location": "Bijapur",
     "type": "DTO",
@@ -4306,6 +5536,8 @@
   },
   {
     "id": 616,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG21",
     "location": "Narayanpur",
     "type": "DTO",
@@ -4313,6 +5545,8 @@
   },
   {
     "id": 617,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG22",
     "location": "Baloda Bazar",
     "type": "DTO",
@@ -4320,6 +5554,8 @@
   },
   {
     "id": 618,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG23",
     "location": "Gariaband",
     "type": "DTO",
@@ -4327,6 +5563,8 @@
   },
   {
     "id": 619,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG24",
     "location": "Balod",
     "type": "DTO",
@@ -4334,6 +5572,8 @@
   },
   {
     "id": 620,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG25",
     "location": "Bemetara",
     "type": "DTO",
@@ -4341,6 +5581,8 @@
   },
   {
     "id": 621,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG26",
     "location": "Sukma",
     "type": "DTO",
@@ -4348,6 +5590,8 @@
   },
   {
     "id": 622,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG27",
     "location": "Kondagaon",
     "type": "DTO",
@@ -4355,6 +5599,8 @@
   },
   {
     "id": 623,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG28",
     "location": "Mungeli",
     "type": "DTO",
@@ -4362,6 +5608,8 @@
   },
   {
     "id": 624,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG29",
     "location": "Surajpur",
     "type": "DTO",
@@ -4369,6 +5617,8 @@
   },
   {
     "id": 625,
+    "s_code": "CG",
+    "state": "Chhattisgarh",
     "code": "CG30",
     "location": "Balrampur",
     "type": "DTO",
@@ -4376,6 +5626,8 @@
   },
   {
     "id": 626,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK01",
     "location": "Srinagar",
     "type": "RTO",
@@ -4383,6 +5635,8 @@
   },
   {
     "id": 627,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK02",
     "location": "Jammu",
     "type": "RTO",
@@ -4390,6 +5644,8 @@
   },
   {
     "id": 628,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK03",
     "location": "Anantnag",
     "type": "RTO",
@@ -4397,6 +5653,8 @@
   },
   {
     "id": 629,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK04",
     "location": "Budgam",
     "type": "RTO",
@@ -4404,6 +5662,8 @@
   },
   {
     "id": 630,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK05",
     "location": "Baramulla",
     "type": "RTO",
@@ -4411,6 +5671,8 @@
   },
   {
     "id": 631,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK06",
     "location": "Doda",
     "type": "RTO",
@@ -4418,6 +5680,8 @@
   },
   {
     "id": 632,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK08",
     "location": "Kathua",
     "type": "RTO",
@@ -4425,6 +5689,8 @@
   },
   {
     "id": 633,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK09",
     "location": "Kupwara",
     "type": "RTO",
@@ -4432,6 +5698,8 @@
   },
   {
     "id": 634,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK11",
     "location": "Rajouri",
     "type": "RTO",
@@ -4439,6 +5707,8 @@
   },
   {
     "id": 635,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK12",
     "location": "Poonch",
     "type": "RTO",
@@ -4446,6 +5716,8 @@
   },
   {
     "id": 636,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK13",
     "location": "Pulwama",
     "type": "RTO",
@@ -4453,6 +5725,8 @@
   },
   {
     "id": 637,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK14",
     "location": "Udhampur",
     "type": "RTO",
@@ -4460,6 +5734,8 @@
   },
   {
     "id": 638,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK15",
     "location": "Bandipora",
     "type": "RTO",
@@ -4467,6 +5743,8 @@
   },
   {
     "id": 639,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK16",
     "location": "Ganderbal",
     "type": "RTO",
@@ -4474,6 +5752,8 @@
   },
   {
     "id": 640,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK17",
     "location": "Kishtwar",
     "type": "RTO",
@@ -4481,6 +5761,8 @@
   },
   {
     "id": 641,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK18",
     "location": "Kulgam",
     "type": "RTO",
@@ -4488,6 +5770,8 @@
   },
   {
     "id": 642,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK19",
     "location": "Ramban",
     "type": "RTO",
@@ -4495,6 +5779,8 @@
   },
   {
     "id": 643,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK20",
     "location": "Reasi",
     "type": "RTO",
@@ -4502,6 +5788,8 @@
   },
   {
     "id": 644,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK21",
     "location": "Samba",
     "type": "RTO",
@@ -4509,6 +5797,8 @@
   },
   {
     "id": 645,
+    "s_code": "JK",
+    "state": "Jammu and Kashmir",
     "code": "JK22",
     "location": "Shopian",
     "type": "RTO",
