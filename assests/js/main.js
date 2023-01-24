@@ -51,7 +51,7 @@ const searchRec = async (value) => {
         queryEl.parentElement.parentElement.classList.remove("d-none");
         document.querySelector(".singleData").classList.add("d-none");
         document.querySelector(".allData").classList.remove("d-none");
-        tableEl.innerHTML="";
+        tableEl.innerHTML=" ";
         for (i = 0; i < filterVal.length; i++) {
           const tableVal = document.createElement("tr");
           tableVal.innerHTML += `
