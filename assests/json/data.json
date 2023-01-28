@@ -1899,18 +1899,9 @@
     "district": "-"
   },
   {
-    "id": 212,
-    "s_code": "KL",
-    "state": "Kerala",
-    "code": "KL35",
-    "location": "Pala",
-    "type": "RTO",
-    "district": "-"
-  },
-  {
     "id": 213,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD01",
     "location": "Balasore",
     "type": "RTO",
@@ -1919,7 +1910,7 @@
   {
     "id": 214,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD02",
     "location": "Bhubaneswar",
     "type": "RTO",
@@ -1928,7 +1919,7 @@
   {
     "id": 215,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD03",
     "location": "Balangir",
     "type": "RTO",
@@ -1937,7 +1928,7 @@
   {
     "id": 216,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD04",
     "location": "Chandikhole",
     "type": "RTO",
@@ -1946,7 +1937,7 @@
   {
     "id": 217,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD05",
     "location": "Cuttack",
     "type": "RTO",
@@ -1955,7 +1946,7 @@
   {
     "id": 218,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD06",
     "location": "Dhenkanal",
     "type": "RTO",
@@ -1964,7 +1955,7 @@
   {
     "id": 219,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD07",
     "location": "Ganjam",
     "type": "RTO",
@@ -1973,7 +1964,7 @@
   {
     "id": 220,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD08",
     "location": "Kalahandi",
     "type": "RTO",
@@ -1982,7 +1973,7 @@
   {
     "id": 221,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD09",
     "location": "Keonjhar",
     "type": "RTO",
@@ -1991,7 +1982,7 @@
   {
     "id": 222,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD10",
     "location": "Koraput",
     "type": "RTO",
@@ -2000,7 +1991,7 @@
   {
     "id": 223,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD11",
     "location": "Mayurbhanj",
     "type": "RTO",
@@ -2009,7 +2000,7 @@
   {
     "id": 224,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD12",
     "location": "Phulbani",
     "type": "RTO",
@@ -2018,7 +2009,7 @@
   {
     "id": 225,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD13",
     "location": "Puri",
     "type": "RTO",
@@ -2027,7 +2018,7 @@
   {
     "id": 226,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD14",
     "location": "Rourkela",
     "type": "RTO",
@@ -2036,7 +2027,7 @@
   {
     "id": 227,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD15",
     "location": "Sambalpur",
     "type": "RTO",
@@ -2045,7 +2036,7 @@
   {
     "id": 228,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD16",
     "location": "Sundergarh",
     "type": "RTO",
@@ -2054,7 +2045,7 @@
   {
     "id": 229,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD17",
     "location": "Baragarh",
     "type": "RTO",
@@ -2063,7 +2054,7 @@
   {
     "id": 230,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD18",
     "location": "Rayagada",
     "type": "RTO",
@@ -2072,7 +2063,7 @@
   {
     "id": 231,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD19",
     "location": "Angul",
     "type": "RTO",
@@ -2081,7 +2072,7 @@
   {
     "id": 232,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD20",
     "location": "Gajapati",
     "type": "RTO",
@@ -2090,7 +2081,7 @@
   {
     "id": 233,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD21",
     "location": "Jagatsinghpur",
     "type": "RTO",
@@ -2099,7 +2090,7 @@
   {
     "id": 234,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD22",
     "location": "Bhadrak",
     "type": "RTO",
@@ -2108,7 +2099,7 @@
   {
     "id": 235,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD23",
     "location": "Jharsuguda",
     "type": "RTO",
@@ -2117,7 +2108,7 @@
   {
     "id": 236,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD24",
     "location": "Nabarangpur",
     "type": "RTO",
@@ -2126,7 +2117,7 @@
   {
     "id": 237,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD25",
     "location": "Nayagarh",
     "type": "RTO",
@@ -2135,7 +2126,7 @@
   {
     "id": 238,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD26",
     "location": "Nuapada",
     "type": "RTO",
@@ -2144,7 +2135,7 @@
   {
     "id": 239,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD27",
     "location": "Boudh",
     "type": "RTO",
@@ -2153,7 +2144,7 @@
   {
     "id": 240,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD28",
     "location": "Debagarh",
     "type": "RTO",
@@ -2162,7 +2153,7 @@
   {
     "id": 241,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD29",
     "location": "Kendrapara",
     "type": "RTO",
@@ -2171,7 +2162,7 @@
   {
     "id": 242,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD30",
     "location": "Malkangiri",
     "type": "RTO",
@@ -2180,7 +2171,7 @@
   {
     "id": 243,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD31",
     "location": "Sonepur",
     "type": "RTO",
@@ -2189,7 +2180,7 @@
   {
     "id": 244,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD32",
     "location": "Bhanjanagar",
     "type": "RTO",
@@ -2198,7 +2189,7 @@
   {
     "id": 245,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD33",
     "location": "Bhubaneswar-II",
     "type": "RTO",
@@ -2207,7 +2198,7 @@
   {
     "id": 246,
     "s_code": "OD",
-    "state": "Orissa",
+    "state": "Odisha",
     "code": "OD34",
     "location": "Jajpur",
     "type": "RTO",
@@ -5801,6 +5792,2490 @@
     "state": "Jammu and Kashmir",
     "code": "JK22",
     "location": "Shopian",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 646,
+    "s_code": "TR",
+    "state": "Tripura",
+    "code": "TR01",
+    "location": "Agartala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 647,
+    "s_code": "TR",
+    "state": "Tripura",
+    "code": "TR02",
+    "location": "North Tripura",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 648,
+    "s_code": "TR",
+    "state": "Tripura",
+    "code": "TR03",
+    "location": "Udaipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 649,
+    "s_code": "TR",
+    "state": "Tripura",
+    "code": "TR04",
+    "location": "Udaipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 650,
+    "s_code": "TR",
+    "state": "Tripura",
+    "code": "TR05",
+    "location": "dharmanagar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 651,
+    "s_code": "TR",
+    "state": "Tripura",
+    "code": "TR06",
+    "location": "Khowai",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 652,
+    "s_code": "TR",
+    "state": "Tripura",
+    "code": "TR07",
+    "location": "Rupnagar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 653,
+    "s_code": "TR",
+    "state": "Tripura",
+    "code": "TR08",
+    "location": "South Tripura",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 654,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK01",
+    "location": "Almora",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 655,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK02",
+    "location": "Bageshwar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 656,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK03",
+    "location": "Champavat",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 657,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK04",
+    "location": "Nainital",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 658,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK05",
+    "location": "Pithoragarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 659,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK06",
+    "location": "Udham Singh Nagar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 660,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK07",
+    "location": "Dehradun",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 661,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK08",
+    "location": "Haridwar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 662,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK09",
+    "location": "Tehri",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 663,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK10",
+    "location": "Uttarkashi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 664,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK11",
+    "location": "Chamoli",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 665,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK12",
+    "location": "Pauri",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 666,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK13",
+    "location": "Rudraprayag",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 667,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK14",
+    "location": "Rishikesh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 668,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK15",
+    "location": "Kotdwar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 669,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK16",
+    "location": "Vikas Nagar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 670,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK17",
+    "location": "Roorkee",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 671,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK18",
+    "location": "Kashipur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 672,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK19",
+    "location": "Ramnagar",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 673,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK20",
+    "location": "Ranikhet",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 674,
+    "s_code": "UK",
+    "state": "Uttarakhand",
+    "code": "UK21",
+    "location": "Tanakpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 675,
+    "s_code": "LA",
+    "state": "Leh Ladakh",
+    "code": "LA01",
+    "location": "Kargil",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 676,
+    "s_code": "LA",
+    "state": "Leh Ladakh",
+    "code": "JK07",
+    "location": "Kargil",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 677,
+    "s_code": "LA",
+    "state": "Leh Ladakh",
+    "code": "LA02",
+    "location": "Leh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 678,
+    "s_code": "LA",
+    "state": "Leh Ladakh",
+    "code": "JK10",
+    "location": "Leh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 679,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP01",
+    "location": "Statewide (tourist buses & taxis)",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 680,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP02",
+    "location": "Statewide (tourist buses & taxis)",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 681,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP03",
+    "location": "Shimla (Urban)",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 682,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP04",
+    "location": "Kangra at Dharamsala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 683,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP05",
+    "location": "Mandi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 684,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP06",
+    "location": "Rampur Bushahr",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 685,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP07",
+    "location": "Shimla (Urban)",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 686,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP08",
+    "location": "Chaupal",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 687,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP09",
+    "location": "Theog",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 688,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP10",
+    "location": "Rohru",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 689,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP11",
+    "location": "Arki",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 690,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP12",
+    "location": "Nalagarh",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 691,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP13",
+    "location": "Kandaghat",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 692,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP14",
+    "location": "Solan",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 693,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP15",
+    "location": "Parwanoo",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 694,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP16",
+    "location": "Rajgarh",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 695,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP16AA",
+    "location": "Pachhad, Sirmaur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 696,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP17",
+    "location": "Paonta Sahib",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 697,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP18",
+    "location": "Nahan",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 698,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP19",
+    "location": "Amb",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 699,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP19AA",
+    "location": "Gagret, Una",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 700,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP20",
+    "location": "Una",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 701,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP21",
+    "location": "Barsar, Hamirpur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 702,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP22",
+    "location": "Hamirpur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 703,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP23",
+    "location": "Ghumarwin",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 704,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP24",
+    "location": "Bilaspur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 705,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP25",
+    "location": "Kalpa",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 706,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP26",
+    "location": "Nichar at Bhaba Nagar",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 707,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP27",
+    "location": "Pooh",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 708,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP28",
+    "location": "Sarkaghat",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 709,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP29",
+    "location": "Jogindernagar",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 710,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP30",
+    "location": "Karsog",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 711,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP31",
+    "location": "Sundernagar",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 712,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP32",
+    "location": "Gohar, Mandi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 713,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP33",
+    "location": "Mandi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 714,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP34",
+    "location": "Kullu",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 715,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP35",
+    "location": "Anni, Kullu",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 716,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP36",
+    "location": "Dehra",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 717,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP37",
+    "location": "Palampur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 718,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP38",
+    "location": "Nurpur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 719,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP39",
+    "location": "Dharamshala",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 720,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP40",
+    "location": "Kangra",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 721,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP41",
+    "location": "Kaza",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 722,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP42",
+    "location": "Keylong",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 723,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP43",
+    "location": "Udaipur, Lahaul and Spiti",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 724,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP44",
+    "location": "Churah, Chamba",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 725,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP45",
+    "location": "Pangi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 726,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP46",
+    "location": "Bharmour",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 727,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP47",
+    "location": "Dalhousie",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 728,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP48",
+    "location": "Chamba",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 729,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP49",
+    "location": "Banjar",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 730,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP50",
+    "location": "Shimla (auto rikshaws)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 731,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP51",
+    "location": "Shimla (Rural)",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 732,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP52",
+    "location": "Shimla (Rural)",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 733,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP53",
+    "location": "Baijnath",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 734,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP54",
+    "location": "Jawali",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 735,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP55",
+    "location": "Nadaun",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 736,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP56",
+    "location": "Jaisinghpur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 737,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP57",
+    "location": "Chowari",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 738,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP58",
+    "location": "Manali",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 739,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP59",
+    "location": "Solan (auto rikshaws)",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 740,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP60",
+    "location": "Hamirpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 741,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP61",
+    "location": "Kullu",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 742,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP62",
+    "location": "Shimla",
+    "type": "STA",
+    "district": "-"
+  },
+  {
+    "id": 743,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP63",
+    "location": "Shimla",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 744,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP64",
+    "location": "Solan",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 745,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP65",
+    "location": "Mandi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 746,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP66",
+    "location": "Kullu",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 747,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP67",
+    "location": "Hamirpur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 748,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP68",
+    "location": "Kangra at Dharmsala",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 749,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP69",
+    "location": "Bilaspur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 750,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP70",
+    "location": "Bilaspur",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 751,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP71",
+    "location": "Nahan",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 752,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP72",
+    "location": "Una",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 753,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP73",
+    "location": "Chamba",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 754,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP74",
+    "location": "Bhoranj, Hamirpur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 755,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP75 (for license code only)",
+    "location": "Shimla",
+    "type": "RTO Flying HQ",
+    "district": "-"
+  },
+  {
+    "id": 756,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP76",
+    "location": "Paddhar, Mandi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 757,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP77",
+    "location": "Dodra Kawar, Shimla",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 758,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP78",
+    "location": "Bangana, Una",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 759,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP79",
+    "location": "Sangrah, Sirmaur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 760,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP80",
+    "location": "Haroli, Una",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 761,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP81",
+    "location": "Salooni",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 762,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP82",
+    "location": "Balh, Mandi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 763,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP83",
+    "location": "Jawalaji, Kangra",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 764,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP84",
+    "location": "Sujanpur Tihra, Hamirpur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 765,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP85",
+    "location": "Shillai, Sirmaur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 766,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP86",
+    "location": "Dharampur, Mandi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 767,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP87",
+    "location": "Janjehli, Mandi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 768,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP88",
+    "location": "Fatehpur, Kangra",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 769,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP89",
+    "location": "Jhandutta, Bilaspur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 770,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP90",
+    "location": "Shahpur, Kangra",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 771,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP91",
+    "location": "Naina Devi at Swarghat, Bilaspur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 772,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP92",
+    "location": "Rampur Bushahr",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 773,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP93",
+    "location": "Nalagarh",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 774,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP94",
+    "location": "Nagrota Bagwan",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 775,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP95",
+    "location": "Kumarsain",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 776,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP96",
+    "location": "Dheera, Kangra",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 777,
+    "s_code": "HP",
+    "state": "Himachal Pradesh",
+    "code": "HP97",
+    "location": "Indora",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 778,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML01",
+    "location": "Meghalaya",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 779,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML02",
+    "location": "Meghalaya",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 780,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML03",
+    "location": "Meghalaya",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 781,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML04",
+    "location": "Jaintia Hills",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 782,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML05",
+    "location": "Shillong",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 783,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML06",
+    "location": "West Khasi Hills",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 784,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML07",
+    "location": "East Garo Hills",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 785,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML08",
+    "location": "West Garo Hills",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 786,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML09",
+    "location": "South Garo Hills",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 787,
+    "s_code": "ML",
+    "state": "Meghalaya",
+    "code": "ML10",
+    "location": "Ri-Bhoi",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 788,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR01",
+    "location": "Itanagar",
+    "type": "DTO",
+    "district": "Papum Pare district"
+  },
+  {
+    "id": 789,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR02",
+    "location": "-",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 790,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR03",
+    "location": "Tawang",
+    "type": "DTO",
+    "district": "Tawang district"
+  },
+  {
+    "id": 791,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR04",
+    "location": "Bomdila",
+    "type": "DTO",
+    "district": "West Kameng district"
+  },
+  {
+    "id": 792,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR05",
+    "location": "Seppa",
+    "type": "DTO",
+    "district": "East Kameng district"
+  },
+  {
+    "id": 793,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR06",
+    "location": "Ziro",
+    "type": "DTO",
+    "district": "Lower Subansiri district"
+  },
+  {
+    "id": 794,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR07",
+    "location": "Daporijo",
+    "type": "DTO",
+    "district": "Upper Subansiri district"
+  },
+  {
+    "id": 795,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR08",
+    "location": "Along",
+    "type": "DTO",
+    "district": "West Siang district"
+  },
+  {
+    "id": 796,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR09",
+    "location": "Pasighat",
+    "type": "DTO",
+    "district": "East Siang district"
+  },
+  {
+    "id": 797,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR10",
+    "location": "Anini",
+    "type": "DTO",
+    "district": "Dibang Valley district"
+  },
+  {
+    "id": 798,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR11",
+    "location": "Tezu",
+    "type": "DTO",
+    "district": "Lohit district"
+  },
+  {
+    "id": 799,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR12",
+    "location": "Changlang",
+    "type": "DTO",
+    "district": "Changlang district"
+  },
+  {
+    "id": 800,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR13",
+    "location": "Khonsa",
+    "type": "DTO",
+    "district": "Tirap district"
+  },
+  {
+    "id": 801,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR14",
+    "location": "Yingkiong",
+    "type": "DTO",
+    "district": "Upper Siang district"
+  },
+  {
+    "id": 802,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR15",
+    "location": "Koloriang",
+    "type": "DTO",
+    "district": "Kurung Kumey district"
+  },
+  {
+    "id": 803,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR16",
+    "location": "Roing",
+    "type": "DTO",
+    "district": "Dibang Valley district"
+  },
+  {
+    "id": 804,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR17",
+    "location": "Hawai",
+    "type": "DTO",
+    "district": "Anjaw district"
+  },
+  {
+    "id": 805,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR19",
+    "location": "Palin",
+    "type": "DTO",
+    "district": "Kra Daadi district"
+  },
+  {
+    "id": 806,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR20",
+    "location": "Namsai",
+    "type": "DTO",
+    "district": "Namsai district"
+  },
+  {
+    "id": 807,
+    "s_code": "AR",
+    "state": "Arunachal Pradesh",
+    "code": "AR22",
+    "location": "Lower Siang",
+    "type": "DTO",
+    "district": "Lower Siang district"
+  },
+  {
+    "id": 808,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR01",
+    "location": "Ambala North",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 809,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR02",
+    "location": "JAGADHRI",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 810,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR03",
+    "location": "Panchkula",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 811,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR04",
+    "location": "Naraingarh",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 812,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR05",
+    "location": "Karnal",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 813,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR06",
+    "location": "Panipat",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 814,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR07",
+    "location": "Thanesar",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 815,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR08",
+    "location": "Kaithal",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 816,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR09",
+    "location": "Guhla",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 817,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR10",
+    "location": "Sonipat",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 818,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR11",
+    "location": "Gohana",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 819,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR12",
+    "location": "Rohtak",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 820,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR13",
+    "location": "Bahadurgarh",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 821,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR14",
+    "location": "Jhajjar",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 822,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR15",
+    "location": "Meham",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 823,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR16",
+    "location": "Bhiwani",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 824,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR17",
+    "location": "Siwani",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 825,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR18",
+    "location": "Loharu",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 826,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR19",
+    "location": "Charkhi Dadri",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 827,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR20",
+    "location": "Hisar",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 828,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR21",
+    "location": "Hansi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 829,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR22",
+    "location": "Fatehabad",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 830,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR23",
+    "location": "Tohana, Jakhal Mandi",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 831,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR24",
+    "location": "Sirsa",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 832,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR25",
+    "location": "Mandi Dabwali",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 833,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR26",
+    "location": "Gurugram",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 834,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR27",
+    "location": "Nuh",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 835,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR28",
+    "location": "Ferozepur Jhirka",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 836,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR29",
+    "location": "Ballabgarh (Faridabad South)",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 837,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR30",
+    "location": "Palwal",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 838,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR31",
+    "location": "Jind",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 839,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR32",
+    "location": "Narwana",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 840,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR33",
+    "location": "Safidon",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 841,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR34",
+    "location": "Mahendragarh",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 842,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR35",
+    "location": "Narnaul",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 843,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR36",
+    "location": "Rewari",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 844,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR37",
+    "location": "Ambala",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 845,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR38",
+    "location": "Faridabad",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 846,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR39",
+    "location": "Hisar",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 847,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR40",
+    "location": "Assandh",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 848,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR41",
+    "location": "Pehowa",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 849,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR42",
+    "location": "Ganaur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 850,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR43",
+    "location": "Kosli",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 851,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR44",
+    "location": "Ellenabad",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 852,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR45",
+    "location": "Karnal",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 853,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR46",
+    "location": "Rohtak",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 854,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR47",
+    "location": "Rewari",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 855,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR48",
+    "location": "Tosham",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 856,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR49",
+    "location": "Kalka",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 857,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR50",
+    "location": "Hodal",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 858,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR51",
+    "location": "Faridabad (Faridabad North)",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 859,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR52",
+    "location": "Hathin",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 860,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR53",
+    "location": "Adampur",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 861,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR54",
+    "location": "Barara",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 862,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR55",
+    "location": "Gurugram",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 863,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR56",
+    "location": "Jind",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 864,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR57",
+    "location": "Sirsa",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 865,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR58",
+    "location": "Yamunanagar",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 866,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR59",
+    "location": "Ratia",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 867,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR60",
+    "location": "Samalkha",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 868,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR61",
+    "location": "Bhiwani",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 869,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR62",
+    "location": "Fatehabad",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 870,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR63",
+    "location": "Jhajjar",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 871,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR64",
+    "location": "Kaithal",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 872,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR65",
+    "location": "Kurukshetra",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 873,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR66",
+    "location": "Narnaul",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 874,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR67",
+    "location": "Panipat",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 875,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR68",
+    "location": "Panchkula",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 876,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR69",
+    "location": "Sonipat",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 877,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR70",
+    "location": "Chandigarh",
+    "type": "STA",
+    "district": "-"
+  },
+  {
+    "id": 878,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR71",
+    "location": "Bilaspur",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 879,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR72",
+    "location": "Gurugram",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 880,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR73",
+    "location": "Palwal",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 881,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR74",
+    "location": "Nuh",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 882,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR75",
+    "location": "Indri",
+    "type": "SDivO",
+    "district": "-"
+  },
+  {
+    "id": 883,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR76",
+    "location": "Pataudi",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 884,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR77",
+    "location": "Beri",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 885,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR78",
+    "location": "Shahabad Markanda",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 886,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR79",
+    "location": "Kharkhoda",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 887,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR80",
+    "location": "Barwala",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 888,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR81",
+    "location": "Bawal",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 889,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR82",
+    "location": "KANINA",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 890,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR83",
+    "location": "Kalayat",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 891,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR84",
+    "location": "Charkhi Dadri",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 892,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR85",
+    "location": "Ambala CANTT South",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 893,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR86",
+    "location": "Narnaund",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 894,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR87",
+    "location": "Badhkal (Faridabad West)",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 895,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR88",
+    "location": "Badhra",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 896,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR89",
+    "location": "Badli",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 897,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR90",
+    "location": "Uchana",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 898,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR91",
+    "location": "Gharaunda",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 899,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR92",
+    "location": "Radaur",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 900,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR93",
+    "location": "Punhana",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 901,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR94",
+    "location": "Kalanwali",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 902,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR95",
+    "location": "Sampla",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 903,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR96",
+    "location": "Tauru",
+    "type": "RTA",
+    "district": "-"
+  },
+  {
+    "id": 904,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR97",
+    "location": "Ladwa",
+    "type": "RLA",
+    "district": "-"
+  },
+  {
+    "id": 905,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR98",
+    "location": "Badshahpur",
+    "type": "SDM",
+    "district": "-"
+  },
+  {
+    "id": 906,
+    "s_code": "HR",
+    "state": "Haryana",
+    "code": "HR99",
+    "location": "Haryana",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 907,
+    "s_code": "PY",
+    "state": "Pondicherry",
+    "code": "PY01",
+    "location": "Puducherry",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 908,
+    "s_code": "PY",
+    "state": "Pondicherry",
+    "code": "PY02",
+    "location": "Karaikal",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 909,
+    "s_code": "PY",
+    "state": "Pondicherry",
+    "code": "PY03",
+    "location": "Mahe",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 910,
+    "s_code": "PY",
+    "state": "Pondicherry",
+    "code": "PY04",
+    "location": "Yanam",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 911,
+    "s_code": "PY",
+    "state": "Pondicherry",
+    "code": "PY05",
+    "location": "Oulgaret",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 912,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL01",
+    "location": "Kohima",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 913,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL02",
+    "location": "Mokokchung",
+    "type": "-",
+    "district": "-"
+  },
+  {
+    "id": 914,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL03",
+    "location": "Tuensang",
+    "type": "D.T.O",
+    "district": "-"
+  },
+  {
+    "id": 915,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL04",
+    "location": "Mon",
+    "type": "D.T.O",
+    "district": "-"
+  },
+  {
+    "id": 916,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL05",
+    "location": "Wokha",
+    "type": "D.T.O",
+    "district": "-"
+  },
+  {
+    "id": 917,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL06",
+    "location": "Zunheboto",
+    "type": "D.T.O",
+    "district": "-"
+  },
+  {
+    "id": 918,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL07",
+    "location": "Dimapur",
+    "type": "D.T.O",
+    "district": "-"
+  },
+  {
+    "id": 919,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL08",
+    "location": "Phek",
+    "type": "D.T.O",
+    "district": "-"
+  },
+  {
+    "id": 920,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL10",
+    "location": "RTO Kohima for Govt. non-transport vehicle",
+    "type": "RTO",
+    "district": "-"
+  },
+  {
+    "id": 921,
+    "s_code": "NL",
+    "state": "Nagaland",
+    "code": "NL11",
+    "location": "RTO Kohima for Govt. Transport vehicle",
     "type": "RTO",
     "district": "-"
   }

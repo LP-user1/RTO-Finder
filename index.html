@@ -13,7 +13,7 @@
     />
     <style>
       main {
-        min-height: 100vh;
+        min-height: 89.5vh;
       }
       input,
       #query,
@@ -43,6 +43,9 @@
         background: #fff;
         padding: 0.15rem 0.3rem;
         padding-right: 1rem;
+      }
+      .trVal {
+        pointer-events: initial !important;
       }
     </style>
   </head>
@@ -115,59 +118,55 @@
             </div>
           </div>
           <div
-            class="col-sm mt-5 mx-auto p-2 shadow-sm rounded-3 alert alert-danger d-flex gap-2 justify-content-center align-items-center d-none"
-          >
-            <p>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="15"
-                height="15"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  fill="currentColor"
-                  d="M12 13q.425 0 .713-.288Q13 12.425 13 12V7.975q0-.425-.287-.7Q12.425 7 12 7t-.712.287Q11 7.575 11 8v4.025q0 .425.288.7q.287.275.712.275Zm0 4q.425 0 .713-.288Q13 16.425 13 16t-.287-.713Q12.425 15 12 15t-.712.287Q11 15.575 11 16t.288.712Q11.575 17 12 17Zm0 5q-2.075 0-3.9-.788q-1.825-.787-3.175-2.137q-1.35-1.35-2.137-3.175Q2 14.075 2 12t.788-3.9q.787-1.825 2.137-3.175q1.35-1.35 3.175-2.138Q9.925 2 12 2t3.9.787q1.825.788 3.175 2.138q1.35 1.35 2.137 3.175Q22 9.925 22 12t-.788 3.9q-.787 1.825-2.137 3.175q-1.35 1.35-3.175 2.137Q14.075 22 12 22Zm0-10Zm0 8q3.325 0 5.663-2.337Q20 15.325 20 12t-2.337-5.663Q15.325 4 12 4T6.338 6.337Q4 8.675 4 12t2.338 5.663Q8.675 20 12 20Z"
-                />
-              </svg>
-            </p>
-            <p
-              class="not-found fw-light w-100 text-center"
-              style="font-size: 1.2rem"
-            >
-              Result not found !Try another RTO code.
-            </p>
-          </div>
-          <div
             class="col-sm-12 bg-white shadow p-3 w-100 mx-auto d-none rounded-2"
           >
             <p class="fs-6">
               Your search result for :
               <span id="query" class="fw-semibold fs-4 text-uppercase"></span>
+              <button
+                id="badgeBtn"
+                type="button"
+                class="btn btn-warning position-relative mb-2 ms-2 d-none text-uppercase"
+              >
+                <span id="queryTrim"></span>
+                <span
+                  class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-dark"
+                  id="totalCount"
+                >
+                  <span class="visually-hidden">total count</span>
+                </span>
+              </button>
+            </p>
+            <p class="fs-6 d-none">
+              Total List&nbsp;:&nbsp;
+              <span class="count fs-4 fw-semibold"></span>
             </p>
             <div class="table-responsive">
               <table
                 class="table table-hover table-bordered table-group-divider singleData d-none"
               >
-                <tr>
-                  <td class="fw-semibold">ID</td>
-                  <td class="fs-5" id="id"></td>
-                </tr>
-                <tr>
-                  <td class="fw-semibold">CODE</td>
-                  <td class="fs-5" id="code"></td>
-                </tr>
-                <tr>
-                  <td class="fw-semibold">LOCATION</td>
-                  <td class="fs-5" id="loc"></td>
-                </tr>
-                <tr>
-                  <td class="fw-semibold">TYPE</td>
-                  <td class="fs-5" id="type"></td>
-                </tr>
-                <tr>
-                  <td class="fw-semibold">DISTRICT</td>
-                  <td class="fs-5" id="dist"></td>
-                </tr>
+                <tbody>
+                  <tr>
+                    <td class="fw-semibold">ID</td>
+                    <td class="fs-5" id="id"></td>
+                  </tr>
+                  <tr>
+                    <td class="fw-semibold">CODE</td>
+                    <td class="fs-5" id="code"></td>
+                  </tr>
+                  <tr>
+                    <td class="fw-semibold">LOCATION</td>
+                    <td class="fs-5" id="loc"></td>
+                  </tr>
+                  <tr>
+                    <td class="fw-semibold">TYPE</td>
+                    <td class="fs-5" id="type"></td>
+                  </tr>
+                  <tr>
+                    <td class="fw-semibold">DISTRICT</td>
+                    <td class="fs-5" id="dist"></td>
+                  </tr>
+                </tbody>
               </table>
               <table
                 class="table table-hover table-striped table-bordered table-group-divider allData d-none"
@@ -187,16 +186,16 @@
       </div>
       <!-- ========== End body content ========== -->
       <!-- Alert Message -->
-      <div class="container mt-3 fixed-top">
+      <div class="container mt-2 fixed-top">
         <div class="row" id="alert-sec"></div>
       </div>
     </main>
 
     <!-- ========== Start footer ========== -->
     <footer>
-      <div class="container-fluid bg-dark sticky-bottom">
+      <div class="container-fluid bg-dark sticky-bottom p-3">
         <div class="row">
-          <div class="col-sm p-2">
+          <div class="col-sm">
             <p class="text-center text-light">
               &copy;&nbsp;<span id="currentYear"></span> All rights reserved.
             </p>
