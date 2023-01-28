@@ -10,6 +10,10 @@ const btn = document.querySelector("button");
 const spinner = document.querySelector(".spin");
 const alertSec = document.getElementById("alert-sec");
 const tableEl = document.querySelector(".t-data");
+const cYear = document.getElementById("currentYear");
+
+const year = new Date().getFullYear();
+cYear.innerText = year;
 
 inputEl.addEventListener("keyup", (e) => {
   if (e.key === "Enter") {
@@ -26,7 +30,7 @@ function findSeperateRecord() {
     spinnerActive();
     searchRec(inputEl.value);
   } else {
-    alertMsg("INFO ", "info", "Enter 2 or 4 characters | Ex:TN or TN74");
+    alertMsg("INFO ", "info", "Enter 2 or 4 characters | Ex: TN or TN74");
   }
 }
 
@@ -45,13 +49,18 @@ const searchRec = async (value) => {
 
     const filterExecution = () => {
       spinnerActive();
-      if (!filterVal) {
-        alertMsg("Not Found ", "danger", "Try different State code");
+      if (filterVal == "") {
+        alertMsg(
+          "Not Found ",
+          "danger",
+          `Your search for <span class="fw-bold">${inputEl.value.toUpperCase()}</span> is not available. Enter correct code`
+        );
       } else {
         queryEl.parentElement.parentElement.classList.remove("d-none");
         document.querySelector(".singleData").classList.add("d-none");
         document.querySelector(".allData").classList.remove("d-none");
-        tableEl.innerHTML=" ";
+        queryEl.innerText = inputEl.value;
+        tableEl.innerHTML = " ";
         for (i = 0; i < filterVal.length; i++) {
           const tableVal = document.createElement("tr");
           tableVal.innerHTML += `
@@ -70,7 +79,11 @@ const searchRec = async (value) => {
 
     spinnerActive();
     if (!findVal) {
-      alertMsg("Not Found ", "danger", "Try different RTO code");
+      alertMsg(
+        "Not Found ",
+        "danger",
+        `Your search for <span class="fw-bold">${inputEl.value.toUpperCase()}</span> is not available. Enter correct code`
+      );
     } else {
       queryEl.parentElement.parentElement.classList.remove("d-none");
       document.querySelector(".allData").classList.add("d-none");
